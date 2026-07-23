@@ -1,0 +1,496 @@
+{
+  "version": 1,
+  "updated": "2026-07-22",
+  "masterpieces": [
+    {
+      "title": "Wheat Field with Cypresses",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Painted at the Saint-Rémy asylum in 1889; Van Gogh considered it one of his best summer landscapes.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "Madame X",
+      "creator": "John Singer Sargent",
+      "medium": "Oil on canvas",
+      "story": "The 1884 society portrait whose fallen dress strap caused a scandal that drove Sargent from Paris.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "Self-Portrait with a Straw Hat",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Painted in Paris, 1887, practicing on his own face while short on money for models.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "Bridge over a Pond of Water Lilies",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "The Japanese footbridge at Giverny in full summer green, 1899.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "Cow's Skull: Red, White, and Blue",
+      "creator": "Georgia O'Keeffe",
+      "medium": "Oil on canvas",
+      "story": "1931; a desert skull framed like a national emblem, O'Keeffe's answer to the men painting the 'Great American Thing'.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "The Steerage",
+      "creator": "Alfred Stieglitz",
+      "medium": "Photogravure",
+      "story": "1907; passengers on a ship's lower deck, the photograph Stieglitz called his best, and the moment photography argued itself into art.",
+      "museum": "The Metropolitan Museum of Art"
+    },
+    {
+      "title": "The Starry Night",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Painted from the asylum window at Saint-Rémy in 1889, the swirling night sky he saw before sunrise, from memory and imagination.",
+      "museum": "Museum of Modern Art"
+    },
+    {
+      "title": "Water Lilies",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "A room-wrapping triptych from Giverny, painted in Monet's final years.",
+      "museum": "Museum of Modern Art"
+    },
+    {
+      "title": "Lobster Trap and Fish Tail",
+      "creator": "Alexander Calder",
+      "medium": "Painted steel wire and sheet metal",
+      "story": "Calder's 1939 hanging mobile, made for MoMA's stairwell, drifting shapes balanced in mid-air.",
+      "museum": "Museum of Modern Art"
+    },
+    {
+      "title": "The Birth of the World",
+      "creator": "Joan Miró",
+      "medium": "Oil on canvas",
+      "story": "1925; poured and brushed grounds with a few floating signs, Miró called it a kind of genesis, painting invented from almost nothing.",
+      "museum": "Museum of Modern Art"
+    },
+    {
+      "title": "Calder's Circus",
+      "creator": "Alexander Calder",
+      "medium": "Wire, wood, cloth",
+      "story": "A miniature circus Calder performed by hand in 1920s Paris.",
+      "museum": "Whitney Museum of American Art"
+    },
+    {
+      "title": "Summer Days",
+      "creator": "Georgia O'Keeffe",
+      "medium": "Oil on canvas",
+      "story": "1936; a deer skull floating above the New Mexico desert with a band of wildflowers, life and bone in one hovering image.",
+      "museum": "Whitney Museum of American Art"
+    },
+    {
+      "title": "Comtesse d'Haussonville",
+      "creator": "Jean-Auguste-Dominique Ingres",
+      "medium": "Oil on canvas",
+      "story": "1845; the sly sideways glance and impossible reflected arm.",
+      "museum": "The Frick Collection"
+    },
+    {
+      "title": "Woman with a Parasol",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "Madame Monet and son Jean on a windy hill, 1875.",
+      "museum": "National Gallery of Art"
+    },
+    {
+      "title": "Self-Portrait",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Painted at Saint-Rémy in 1889, one of his last self-portraits.",
+      "museum": "National Gallery of Art"
+    },
+    {
+      "title": "A Girl with a Watering Can",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "1876; one of the most beloved Impressionist children in art.",
+      "museum": "National Gallery of Art"
+    },
+    {
+      "title": "The Farm",
+      "creator": "Joan Miró",
+      "medium": "Oil on canvas",
+      "story": "1921–22; every detail of his family's Catalan farmhouse, painted blade by blade. Hemingway bought it and said it held everything Spain makes you feel.",
+      "museum": "National Gallery of Art"
+    },
+    {
+      "title": "A Sunday on La Grande Jatte",
+      "creator": "Georges Seurat",
+      "medium": "Oil on canvas",
+      "story": "1884–86; millions of dots, two years of work, and the founding image of pointillism.",
+      "museum": "Art Institute of Chicago"
+    },
+    {
+      "title": "The Bedroom",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "The Arles bedroom, 1889, one of three versions Van Gogh painted of his own room.",
+      "museum": "Art Institute of Chicago"
+    },
+    {
+      "title": "Paris Street; Rainy Day",
+      "creator": "Gustave Caillebotte",
+      "medium": "Oil on canvas",
+      "story": "1877; umbrellas, cobblestones, and the boldest cropping in Impressionism.",
+      "museum": "Art Institute of Chicago"
+    },
+    {
+      "title": "Two Sisters (On the Terrace)",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "1881; the sitters weren't actually sisters, but the sunlight is real.",
+      "museum": "Art Institute of Chicago"
+    },
+    {
+      "title": "Sky Above Clouds IV",
+      "creator": "Georgia O'Keeffe",
+      "medium": "Oil on canvas",
+      "story": "1965; clouds from an airplane window, 24 feet wide, painted in her late seventies.",
+      "museum": "Art Institute of Chicago"
+    },
+    {
+      "title": "Van Gogh's Self-Portrait Dedicated to Paul Gauguin",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "1888; painted as a gift in the fateful Arles autumn.",
+      "museum": "Harvard Art Museums"
+    },
+    {
+      "title": "Irises",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Painted in his first week at the Saint-Rémy asylum, 1889; once the most expensive painting ever sold.",
+      "museum": "Getty Center"
+    },
+    {
+      "title": "Wheatstacks, Snow Effect, Morning",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "1891; winter light from the famous haystack series.",
+      "museum": "Getty Center"
+    },
+    {
+      "title": "Calla Lily",
+      "creator": "Robert Mapplethorpe",
+      "medium": "Gelatin silver print",
+      "story": "1988; a single flower lit like sculpture. The Getty and LACMA jointly hold Mapplethorpe's art and archive.",
+      "museum": "Getty Center"
+    },
+    {
+      "title": "The Daughters of Edward Darley Boit",
+      "creator": "John Singer Sargent",
+      "medium": "Oil on canvas",
+      "story": "1882; four sisters in shadowed Paris rooms, flanked by the actual Japanese vases in the painting.",
+      "museum": "Museum of Fine Arts, Boston"
+    },
+    {
+      "title": "Where Do We Come From? What Are We? Where Are We Going?",
+      "creator": "Paul Gauguin",
+      "medium": "Oil on canvas",
+      "story": "Gauguin's 1897–98 Tahitian summa, he considered it his masterpiece.",
+      "museum": "Museum of Fine Arts, Boston"
+    },
+    {
+      "title": "Where Do We Come From?",
+      "creator": "Paul Gauguin",
+      "medium": "Oil on canvas",
+      "story": "Also see the Egyptian Old Kingdom pair statue nearby.",
+      "museum": "Museum of Fine Arts, Boston"
+    },
+    {
+      "title": "Renoir's Dance at Bougival",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "1883; the whirling couple that anchors the Impressionist wing.",
+      "museum": "Museum of Fine Arts, Boston"
+    },
+    {
+      "title": "El Jaleo",
+      "creator": "John Singer Sargent",
+      "medium": "Oil on canvas",
+      "story": "The flamenco dancer in her own Spanish-arch alcove.",
+      "museum": "Isabella Stewart Gardner Museum"
+    },
+    {
+      "title": "The Large Bathers",
+      "creator": "Paul Cézanne",
+      "medium": "Oil on canvas",
+      "story": "1898–1905; the grand finale of Cézanne's bather obsession.",
+      "museum": "Philadelphia Museum of Art"
+    },
+    {
+      "title": "Sunflowers",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "One of the series lives in Philadelphia.",
+      "museum": "Philadelphia Museum of Art"
+    },
+    {
+      "title": "181 Renoirs",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "Dr. Barnes bought Renoir and Cézanne by the roomful; the salon-style hangs are his own eccentric design.",
+      "museum": "Barnes Foundation"
+    },
+    {
+      "title": "The Card Players",
+      "creator": "Paul Cézanne",
+      "medium": "Oil on canvas",
+      "story": "One of the five versions; another sold privately for over $250 million.",
+      "museum": "Barnes Foundation"
+    },
+    {
+      "title": "Seurat's Models",
+      "creator": "Georges Seurat",
+      "medium": "Oil on canvas",
+      "story": "The pointillist nudes posed before his own Grande Jatte.",
+      "museum": "Barnes Foundation"
+    },
+    {
+      "title": "Monet's Weeping Willow",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "1918–19; grief for WWI in paint.",
+      "museum": "Kimbell Art Museum"
+    },
+    {
+      "title": "Portrait of Estelle Musson Degas",
+      "creator": "Edgar Degas",
+      "medium": "Oil on canvas",
+      "story": "Painted while Degas lived with family in New Orleans in 1872, the only French Impressionist with an American hometown chapter.",
+      "museum": "New Orleans Museum of Art"
+    },
+    {
+      "title": "Liberty Leading the People",
+      "creator": "Eugène Delacroix",
+      "medium": "Oil on canvas",
+      "story": "1830; the bare-breasted Republic on the barricades, France's revolutionary self-image.",
+      "museum": "Musée du Louvre"
+    },
+    {
+      "title": "Grande Odalisque",
+      "creator": "Jean-Auguste-Dominique Ingres",
+      "medium": "Oil on canvas",
+      "story": "1814; anatomically impossible spine, deliberately, beauty over accuracy.",
+      "museum": "Musée du Louvre"
+    },
+    {
+      "title": "Starry Night Over the Rhône",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "Arles, 1888, gaslight and stars on the river, a year before The Starry Night.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Bal du moulin de la Galette",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "1876; dappled Sunday sunlight in Montmartre, Impressionism at its happiest.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Luncheon on the Grass",
+      "creator": "Édouard Manet",
+      "medium": "Oil on canvas",
+      "story": "The 1863 scandal that launched modern painting, a nude picnicking with dressed men.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Olympia",
+      "creator": "Édouard Manet",
+      "medium": "Oil on canvas",
+      "story": "1863; the courtesan whose direct stare outraged Paris.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Whistler's Mother",
+      "creator": "James McNeill Whistler",
+      "medium": "Oil on canvas",
+      "story": "1871; officially 'Arrangement in Grey and Black No. 1'.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "The Church at Auvers",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "June 1890, weeks before his death, the sky an impossible blue-black.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Little Dancer Aged Fourteen",
+      "creator": "Edgar Degas",
+      "medium": "Bronze, tulle skirt",
+      "story": "The only sculpture Degas ever exhibited; critics in 1881 called her ugly, she outlived them all.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Blue Water Lilies",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "Giverny dissolving into pure color.",
+      "museum": "Musée d'Orsay"
+    },
+    {
+      "title": "Water Lilies Cycle",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas, 8 murals",
+      "story": "Monet's gift to France after WWI, two oval rooms he designed himself as 'a haven of peaceful meditation'.",
+      "museum": "Musée de l'Orangerie"
+    },
+    {
+      "title": "Young Girls at the Piano",
+      "creator": "Auguste Renoir",
+      "medium": "Oil on canvas",
+      "story": "1892; domestic sweetness done masterfully.",
+      "museum": "Musée de l'Orangerie"
+    },
+    {
+      "title": "Impression, Sunrise",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "The 1872 harbor sketch whose mocking review named Impressionism itself.",
+      "museum": "Musée Marmottan Monet"
+    },
+    {
+      "title": "Monet's Late Giverny Canvases",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "Wisteria and weeping willows from the painter's own bequest.",
+      "museum": "Musée Marmottan Monet"
+    },
+    {
+      "title": "The Fighting Temeraire",
+      "creator": "J.M.W. Turner",
+      "medium": "Oil on canvas",
+      "story": "1839; the old warship towed to scrap at sunset, voted Britain's favorite painting.",
+      "museum": "The National Gallery"
+    },
+    {
+      "title": "Bathers at Asnières",
+      "creator": "Georges Seurat",
+      "medium": "Oil on canvas",
+      "story": "1884; Seurat's first great canvas, working-class leisure at monumental scale.",
+      "museum": "The National Gallery"
+    },
+    {
+      "title": "A Bar at the Folies-Bergère",
+      "creator": "Édouard Manet",
+      "medium": "Oil on canvas",
+      "story": "1882; Manet's last great painting, the barmaid's reflection doesn't quite add up, on purpose.",
+      "museum": "The Courtauld Gallery"
+    },
+    {
+      "title": "Self-Portrait with Bandaged Ear",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "January 1889, weeks after the razor incident in Arles.",
+      "museum": "The Courtauld Gallery"
+    },
+    {
+      "title": "Female Nude",
+      "creator": "Amedeo Modigliani",
+      "medium": "Oil on canvas",
+      "story": "1916; from the show the police shut down.",
+      "museum": "The Courtauld Gallery"
+    },
+    {
+      "title": "The Turner Watercolours",
+      "creator": "J.M.W. Turner",
+      "medium": "Watercolor",
+      "story": "Shown only each January, by the donor's strict wish.",
+      "museum": "National Gallery of Ireland"
+    },
+    {
+      "title": "Almond Blossom",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "1890; painted for his newborn nephew, the family kept it over the piano for decades.",
+      "museum": "Van Gogh Museum"
+    },
+    {
+      "title": "The Potato Eaters",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "1885; the dark, earthy work he considered his first masterpiece.",
+      "museum": "Van Gogh Museum"
+    },
+    {
+      "title": "Wheatfield with Crows",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "July 1890; stormy sky, three paths, painted in his final weeks.",
+      "museum": "Van Gogh Museum"
+    },
+    {
+      "title": "Self-Portrait with Grey Felt Hat",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "1887; Paris period, where he found his color.",
+      "museum": "Van Gogh Museum"
+    },
+    {
+      "title": "Café Terrace at Night",
+      "creator": "Vincent van Gogh",
+      "medium": "Oil on canvas",
+      "story": "1888; the Arles café under a starry sky, no black anywhere in the night.",
+      "museum": "Kröller-Müller Museum"
+    },
+    {
+      "title": "Le Chahut",
+      "creator": "Georges Seurat",
+      "medium": "Oil on canvas",
+      "story": "1890; the cancan in dots.",
+      "museum": "Kröller-Müller Museum"
+    },
+    {
+      "title": "The Monk by the Sea",
+      "creator": "Caspar David Friedrich",
+      "medium": "Oil on canvas",
+      "story": "1808–10; a tiny figure before an immense empty sea, Romanticism distilled.",
+      "museum": "Alte Nationalgalerie"
+    },
+    {
+      "title": "Abbey among Oak Trees",
+      "creator": "Caspar David Friedrich",
+      "medium": "Oil on canvas",
+      "story": "The Monk's somber twin, hung beside it.",
+      "museum": "Alte Nationalgalerie"
+    },
+    {
+      "title": "Monet's The Luncheon",
+      "creator": "Claude Monet",
+      "medium": "Oil on canvas",
+      "story": "1868; family breakfast before Impressionism had a name.",
+      "museum": "Städel Museum"
+    },
+    {
+      "title": "The Kiss",
+      "creator": "Gustav Klimt",
+      "medium": "Oil and gold leaf on canvas",
+      "story": "1907–08; the golden embrace, Austria's national painting, in a Baroque palace.",
+      "museum": "Belvedere"
+    },
+    {
+      "title": "The Scream (versions)",
+      "creator": "Edvard Munch",
+      "medium": "Tempera, crayon, lithograph",
+      "story": "Munch left Oslo everything in his will; the versions rotate on display to protect them from light.",
+      "museum": "MUNCH"
+    },
+    {
+      "title": "The Scream",
+      "creator": "Edvard Munch",
+      "medium": "Tempera and crayon",
+      "story": "The famous 1893 version, stolen in 1994 during the Lillehammer Olympics and recovered.",
+      "museum": "National Museum of Norway"
+    }
+  ]
+}
