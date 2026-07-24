@@ -1,6 +1,28 @@
 {
-  "version": 1,
-  "updated": "2026-07-22",
+  "version": 2,
+  "updated": "2026-07-23",
+  "radiusOverrides": {
+    "Musée du Louvre": 500,
+    "Vatican Museums": 500,
+    "Palace of Versailles": 450,
+    "State Hermitage Museum": 300,
+    "The Metropolitan Museum of Art": 250,
+    "National Museum of China": 250,
+    "American Museum of Natural History": 250,
+    "Getty Center": 280,
+    "National Gallery of Art": 250,
+    "Museo del Prado": 220,
+    "The British Museum": 200,
+    "Victoria and Albert Museum": 220,
+    "Rijksmuseum": 200,
+    "Art Institute of Chicago": 220,
+    "Museum of Fine Arts, Boston": 220,
+    "National Palace Museum": 220,
+    "Natural History Museum": 220,
+    "National Museum of Natural History": 220,
+    "Uffizi Gallery": 180,
+    "Musée d'Orsay": 180
+  },
   "museums": [
     {
       "name": "Israel Museum",
