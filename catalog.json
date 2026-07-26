@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-07-23",
+  "version": 3,
+  "updated": "2026-07-25",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -21,7 +21,8 @@
     "Natural History Museum": 220,
     "National Museum of Natural History": 220,
     "Uffizi Gallery": 180,
-    "Musée d'Orsay": 180
+    "Musée d'Orsay": 180,
+    "Tokyo National Museum": 220
   },
   "museums": [
     {
@@ -2699,6 +2700,172 @@
       "domain": "",
       "websiteURL": "",
       "highlights": []
+    },
+    {
+      "name": "Tokyo National Museum",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Japan",
+      "type": "history",
+      "latitude": 35.7188,
+      "longitude": 139.7765,
+      "domain": "tnm.jp",
+      "websiteURL": "https://www.tnm.jp/?lang=en",
+      "highlights": [
+        {
+          "title": "Pine Trees Screen",
+          "creator": "Hasegawa Tohaku",
+          "medium": "Ink on paper",
+          "story": "c. 1595; mist-soaked pines in ink, often called Japan's most beloved painting. Shown in rotation to protect it."
+        },
+        {
+          "title": "Haniwa Warrior in Keiko Armor",
+          "creator": "Kofun period",
+          "medium": "Terracotta",
+          "story": "A 6th-century tomb guardian, among the first works ever named a National Treasure of Japan."
+        }
+      ]
+    },
+    {
+      "name": "Kyoto National Museum",
+      "city": "Kyoto",
+      "country": "Japan",
+      "region": "Japan",
+      "type": "art",
+      "latitude": 34.9899,
+      "longitude": 135.7727,
+      "domain": "kyohaku.go.jp",
+      "websiteURL": "https://www.kyohaku.go.jp/eng/",
+      "highlights": [
+        {
+          "title": "Wind God and Thunder God",
+          "creator": "Tawaraya Sotatsu",
+          "medium": "Gold-leaf screens",
+          "story": "Raijin and Fujin hurled across gold clouds; a Kyoto icon, shown here on deposit from Kennin-ji."
+        }
+      ]
+    },
+    {
+      "name": "Mori Art Museum",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Japan",
+      "type": "art",
+      "latitude": 35.6605,
+      "longitude": 139.7292,
+      "domain": "mori.art.museum",
+      "websiteURL": "https://www.mori.art.museum/en/",
+      "highlights": [
+        {
+          "title": "Contemporary shows, 52 floors up",
+          "story": "Ambitious international exhibitions with Tokyo itself as the closing work, seen from the observation deck next door."
+        }
+      ]
+    },
+    {
+      "name": "teamLab Planets TOKYO",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "Japan",
+      "type": "art",
+      "latitude": 35.6494,
+      "longitude": 139.7889,
+      "domain": "teamlab.art",
+      "websiteURL": "https://www.teamlab.art/e/planets/",
+      "highlights": [
+        {
+          "title": "The Infinite Crystal Universe",
+          "creator": "teamLab",
+          "medium": "LED installation",
+          "story": "You wade barefoot through rooms of light and water, and the artwork rearranges itself around you."
+        }
+      ]
+    },
+    {
+      "name": "National Museum of Korea",
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "South Korea",
+      "type": "history",
+      "latitude": 37.524,
+      "longitude": 126.9804,
+      "domain": "museum.go.kr",
+      "websiteURL": "https://www.museum.go.kr/site/eng/home",
+      "highlights": [
+        {
+          "title": "Pensive Bodhisattva",
+          "creator": "Three Kingdoms period",
+          "medium": "Gilt bronze",
+          "story": "National Treasure 83: a half-smiling figure lost in thought, often called Korea's Mona Lisa."
+        },
+        {
+          "title": "Ten-Story Gyeongcheonsa Pagoda",
+          "creator": "Goryeo dynasty",
+          "medium": "Marble",
+          "story": "A carved marble pagoda rising through the museum's great hall, returned to Korea after decades abroad."
+        }
+      ]
+    },
+    {
+      "name": "Leeum Museum of Art",
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "South Korea",
+      "type": "art",
+      "latitude": 37.5384,
+      "longitude": 126.999,
+      "domain": "leeum.org",
+      "websiteURL": "https://www.leeum.org/html/global/main.asp",
+      "highlights": [
+        {
+          "title": "Goryeo Celadon",
+          "creator": "Goryeo dynasty",
+          "medium": "Celadon",
+          "story": "The jade-green glaze Korea perfected a thousand years ago, beside a bold contemporary collection."
+        }
+      ]
+    },
+    {
+      "name": "Bangkok National Museum",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "region": "Thailand",
+      "type": "history",
+      "latitude": 13.7576,
+      "longitude": 100.4926,
+      "domain": "finearts.go.th",
+      "websiteURL": "https://www.museumthailand.com/en/museum/Bangkok-National-Museum",
+      "highlights": [
+        {
+          "title": "Phra Phuttha Sihing",
+          "medium": "Gilt bronze",
+          "story": "One of Thailand's most revered Buddha images, carried in procession each Songkran."
+        },
+        {
+          "title": "Royal Funeral Chariots",
+          "creator": "Rattanakosin period",
+          "medium": "Gilded teak",
+          "story": "Towering gold chariots, still drawn through Bangkok for royal cremations."
+        }
+      ]
+    },
+    {
+      "name": "Jim Thompson House",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "region": "Thailand",
+      "type": "art",
+      "latitude": 13.7492,
+      "longitude": 100.5282,
+      "domain": "jimthompsonhouse.com",
+      "websiteURL": "https://www.jimthompsonhouse.org",
+      "highlights": [
+        {
+          "title": "The Teak Houses",
+          "medium": "Architecture",
+          "story": "Six traditional houses the American silk king joined into one, filled with Southeast Asian art. He vanished in 1967 and was never found."
+        }
+      ]
     }
   ]
 }
