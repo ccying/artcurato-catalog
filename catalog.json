@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-07-25",
   "radiusOverrides": {
     "Musée du Louvre": 500,
@@ -22,7 +22,9 @@
     "National Museum of Natural History": 220,
     "Uffizi Gallery": 180,
     "Musée d'Orsay": 180,
-    "Tokyo National Museum": 220
+    "Tokyo National Museum": 220,
+    "Grand Egyptian Museum": 300,
+    "Louvre Abu Dhabi": 250
   },
   "museums": [
     {
@@ -2864,6 +2866,188 @@
           "title": "The Teak Houses",
           "medium": "Architecture",
           "story": "Six traditional houses the American silk king joined into one, filled with Southeast Asian art. He vanished in 1967 and was never found."
+        }
+      ]
+    },
+    {
+      "name": "National Museum of Qatar",
+      "city": "Doha",
+      "country": "Qatar",
+      "region": "Qatar",
+      "type": "history",
+      "latitude": 25.2857,
+      "longitude": 51.5461,
+      "domain": "nmoq.org.qa",
+      "websiteURL": "https://nmoq.org.qa/en/",
+      "highlights": [
+        {
+          "title": "The Desert Rose",
+          "creator": "Jean Nouvel",
+          "medium": "Architecture",
+          "story": "Interlocking discs like a crystal blooming from the sand, wrapped around the old royal palace."
+        }
+      ]
+    },
+    {
+      "name": "Museum of the Future",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "United Arab Emirates",
+      "type": "science",
+      "latitude": 25.2191,
+      "longitude": 55.282,
+      "domain": "motf.ae",
+      "websiteURL": "https://museumofthefuture.ae/en",
+      "highlights": [
+        {
+          "title": "The Calligraphy Facade",
+          "medium": "Architecture",
+          "story": "A torus of steel inscribed with poetry about the future, and floors that imagine 2071 inside."
+        }
+      ]
+    },
+    {
+      "name": "Zeitz MOCAA",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "South Africa",
+      "type": "art",
+      "latitude": -33.9081,
+      "longitude": 18.423,
+      "domain": "zeitzmocaa.museum",
+      "websiteURL": "https://zeitzmocaa.museum",
+      "highlights": [
+        {
+          "title": "The Silo Atrium",
+          "creator": "Heatherwick Studio",
+          "medium": "Architecture",
+          "story": "A cathedral carved from 42 concrete grain tubes, holding contemporary art from across Africa."
+        }
+      ]
+    },
+    {
+      "name": "Apartheid Museum",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "region": "South Africa",
+      "type": "history",
+      "latitude": -26.2377,
+      "longitude": 28.0089,
+      "domain": "apartheidmuseum.org",
+      "websiteURL": "https://www.apartheidmuseum.org",
+      "highlights": [
+        {
+          "title": "The Entrance Gates",
+          "story": "You enter through a randomly assigned 'white' or 'non-white' gate, and the story unfolds without flinching."
+        }
+      ]
+    },
+    {
+      "name": "Bardo National Museum",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "region": "Tunisia",
+      "type": "history",
+      "latitude": 36.8092,
+      "longitude": 10.1343,
+      "highlights": [
+        {
+          "title": "The Roman Mosaics",
+          "creator": "Roman Africa",
+          "medium": "Mosaic",
+          "story": "Room after room of the world's finest Roman mosaics, laid into a former beylical palace."
+        }
+      ]
+    },
+    {
+      "name": "Musée Yves Saint Laurent Marrakech",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "region": "Morocco",
+      "type": "art",
+      "latitude": 31.6416,
+      "longitude": -8.0035,
+      "domain": "museeyslmarrakech.com",
+      "websiteURL": "https://www.museeyslmarrakech.com/en/",
+      "highlights": [
+        {
+          "title": "The Love Posters and Haute Couture",
+          "creator": "Yves Saint Laurent",
+          "story": "Fifty years of couture beside the Jardin Majorelle blue that pulled Saint Laurent to Marrakech."
+        }
+      ]
+    },
+    {
+      "name": "MONA",
+      "city": "Hobart",
+      "country": "Australia",
+      "region": "Australia",
+      "type": "art",
+      "latitude": -42.8119,
+      "longitude": 147.262,
+      "domain": "mona.net.au",
+      "websiteURL": "https://mona.net.au",
+      "highlights": [
+        {
+          "title": "Down the Spiral Staircase",
+          "story": "David Walsh's subterranean 'subversive adult Disneyland', carved into a Triassic cliff on the Derwent."
+        }
+      ]
+    },
+    {
+      "name": "Te Papa Tongarewa",
+      "city": "Wellington",
+      "country": "New Zealand",
+      "region": "New Zealand",
+      "type": "history",
+      "latitude": -41.2905,
+      "longitude": 174.7821,
+      "domain": "tepapa.govt.nz",
+      "websiteURL": "https://www.tepapa.govt.nz",
+      "highlights": [
+        {
+          "title": "The Colossal Squid",
+          "story": "The only complete colossal squid on display anywhere, 4.2 metres of deep-sea legend."
+        },
+        {
+          "title": "Te Marae",
+          "story": "A living marae built for all New Zealanders, carved and contemporary at once."
+        }
+      ]
+    },
+    {
+      "name": "Auckland War Memorial Museum",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "region": "New Zealand",
+      "type": "history",
+      "latitude": -36.8606,
+      "longitude": 174.7778,
+      "domain": "aucklandmuseum.com",
+      "websiteURL": "https://www.aucklandmuseum.com",
+      "highlights": [
+        {
+          "title": "Te Toki a Tāpiri",
+          "medium": "Carved totara",
+          "story": "The last of the great Māori war canoes, 25 metres carved from a single tree."
+        }
+      ]
+    },
+    {
+      "name": "Auckland Art Gallery Toi o Tāmaki",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "region": "New Zealand",
+      "type": "art",
+      "latitude": -36.8515,
+      "longitude": 174.7658,
+      "domain": "aucklandartgallery.com",
+      "websiteURL": "https://www.aucklandartgallery.com",
+      "highlights": [
+        {
+          "title": "The Kauri Canopy",
+          "medium": "Architecture",
+          "story": "A ceiling of kauri-wood pods over the atrium, sheltering New Zealand's largest art collection."
         }
       ]
     }
