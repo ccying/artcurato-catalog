@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-07-25",
+  "version": 5,
+  "updated": "2026-08-25",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -3050,6 +3050,30 @@
           "story": "A ceiling of kauri-wood pods over the atrium, sheltering New Zealand's largest art collection."
         }
       ]
+    },
+    {
+      "name": "The Foster Museum",
+      "city": "Palo Alto",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 37.423698,
+      "longitude": -122.099666,
+      "domain": "thefoster.org",
+      "websiteURL": "https://www.thefoster.org/",
+      "highlights": []
+    },
+    {
+      "name": "Smithsonian National Portrait Gallery",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.897847,
+      "longitude": -77.022917,
+      "domain": "npg.si.edu",
+      "websiteURL": "https://npg.si.edu/",
+      "highlights": []
     }
   ]
 }
