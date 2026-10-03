@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated": "2026-10-03",
   "radiusOverrides": {
     "Musée du Louvre": 500,
@@ -3575,5 +3575,1110 @@
       "websiteURL": "https://heurichhouse.org/",
       "highlights": []
     }
-  ]
+  ],
+  "retiredHighlights": {
+    "Israel Museum": [
+      "Fountain",
+      "Knight, Death, and the Devil",
+      "L.H.O.O.Q.",
+      "Melencolia I",
+      "St. Jerome in His Study",
+      "Tel Dan Stele",
+      "Unique Forms of Continuity in Space",
+      "War of the Sons of Light Against the Sons of Darkness"
+    ],
+    "São Paulo Museum of Art": [
+      "Bather with a Griffon Dog",
+      "Boating on the River Epte",
+      "Pink and Blue",
+      "Portrait of Suzanne Bloch",
+      "Portrait of the Count-Duke of Olivares",
+      "Resurrection of Christ",
+      "Saint Jerome in the desert",
+      "Virgin and Child with the Infant John the Baptist"
+    ],
+    "Bible Lands Museum": [
+      "Anthropoid sarcophagi of Deir al-Balah"
+    ],
+    "Château de Montsoreau-Museum of Contemporary Art": [
+      "Art-Language the journal of conceptual art",
+      "Index: Incident in a Museum (Art & Language)"
+    ],
+    "Tretyakov Gallery": [
+      "Black Square (1915)",
+      "Christ in the Wilderness",
+      "Eleusa",
+      "Ivan the Terrible and his son Ivan on November 16, 1581",
+      "Morning in a Pine Forest",
+      "Portrait of an Unknown Woman",
+      "Theotokos of Vladimir",
+      "They Did Not Expect Him"
+    ],
+    "Derby Museum and Art Gallery": [
+      "A Journalist Lecturing on the Orrery",
+      "A Philosopher by Lamplight",
+      "Hanson Log Boat",
+      "Indian Widow",
+      "Romeo and Juliet: the Tomb Scene",
+      "The Alchemist Discovering Phosphorus",
+      "The Captive King",
+      "Whitehurst & Son sundial"
+    ],
+    "Palazzo Pitti": [
+      "Ecstasy of Saint Margaret of Cortona"
+    ],
+    "Russian Museum": [
+      "Barge Haulers on the Volga",
+      "Moonlit Night on the Dnieper",
+      "Red Cavalry Riding",
+      "Red Square",
+      "Reply of the Zaporozhian Cossacks",
+      "Sadko",
+      "The Last Day of Pompeii",
+      "The Ninth Wave"
+    ],
+    "Pushkin Museum of Fine Arts": [
+      "Aha Oe Feii?",
+      "Blue Dancers",
+      "Mardi Gras",
+      "Portrait of the actress Jeanne Samary",
+      "Priam's Treasure",
+      "Prisoners Exercising",
+      "The Red Vineyard",
+      "Young Girls in Black"
+    ],
+    "Brooklyn Museum": [
+      "A Storm in the Rocky Mountains, Mt. Rosalie",
+      "Blue Qur'an",
+      "Painting of Lady Tjepu",
+      "Plum Park in Kameido",
+      "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+      "The Dinner Party",
+      "Wilbour Papyrus",
+      "list of women in the Heritage Floor"
+    ],
+    "National Art Museum of Azerbaijan": [
+      "Darvish",
+      "Dream Land",
+      "For You",
+      "Land of Fire",
+      "Portrait of a Young Man",
+      "Portrait of a seated woman",
+      "Ship in a storm",
+      "The Funeral of Ferdowsi"
+    ],
+    "Villa Romana del Casale": [
+      "Big Game Hunt mosaic"
+    ],
+    "Petit Palais": [
+      "The Dream of the Doctor"
+    ],
+    "Ashmolean Museum": [
+      "Alfred Jewel",
+      "Messiah Stradivarius",
+      "Narmer Macehead",
+      "Oxyrhynchus Papyri",
+      "Parian Chronicle",
+      "Scorpion Macehead",
+      "The Return of the Dove to the Ark",
+      "Weld-Blundell Prism"
+    ],
+    "Gallerie dell'Accademia": [
+      "Madonna and Child enthroned with Saints and Angels",
+      "Miracle of the Slave",
+      "Pietà",
+      "St Mark's Body Brought to Venice",
+      "The Feast in the House of Levi",
+      "The Hermit Saint",
+      "The Tempest",
+      "Vitruvian Man"
+    ],
+    "Glyptothek": [
+      "Apollo Barberini",
+      "Barberini Faun",
+      "IvO 240/241",
+      "Kouros of Tenea",
+      "Medusa Rondanini",
+      "Munich Kouros"
+    ],
+    "Musée d'art moderne de Paris": [
+      "La Fée Électricité",
+      "Ritratto di Lunia Czechowska con ventaglio",
+      "Still Life with Candlestick",
+      "The Bathers",
+      "The Dance",
+      "Woman with Blue Eyes"
+    ],
+    "Royal Academy of Arts": [
+      "A Mermaid",
+      "An Interior in Venice",
+      "Boy and Rabbit",
+      "Last supper by Giampietrino",
+      "Self-Portrait",
+      "Taddei Tondo",
+      "The Leaping Horse",
+      "Thor Battering the Midgard Serpent"
+    ],
+    "Bargello National Museum": [
+      "Apollo",
+      "Bacchus",
+      "Brutus",
+      "David",
+      "David with the head of Goliath",
+      "Franks Casket",
+      "Gallino Crucifix",
+      "Pitti Tondo"
+    ],
+    "Museum of Anatolian Civilizations": [
+      "Herakleia head",
+      "Seated Woman of Çatalhöyük",
+      "İnandık Vase"
+    ],
+    "Scrovegni Chapel": [
+      "Adoration of the Magi",
+      "Entry into Jerusalem",
+      "Flight into Egypt",
+      "Kiss of Judas",
+      "Lamentation",
+      "Last Judgment",
+      "Massacre of the Innocents",
+      "The Raising of Lazarus"
+    ],
+    "Scottish National Gallery": [
+      "A Woman in Bed",
+      "Alexander III of Scotland Rescued from the Fury of a Stag by the Intrepidity of Colin Fitzgerald",
+      "An Allegory of the Old and New Testaments",
+      "Bust of Carlo Antonio del Pozzo",
+      "Christ in the House of Martha and Mary",
+      "Niagara Falls, from the American Side",
+      "The Skating Minister"
+    ],
+    "Academy of Fine Arts Vienna": [
+      "Boreas Abducting Oreithyia",
+      "Group portrait of an unknown family or company",
+      "Lucretia",
+      "Self-portrait",
+      "The Last Judgment"
+    ],
+    "Museo Egizio": [
+      "Bembine Tablet",
+      "Figured ostracon showing a dancer in an acrobatic position",
+      "Judicial Papyrus of Turin",
+      "Papyri of Gebelein",
+      "Temple of Ellesyia",
+      "The so-called “Goldmine Papyrus” with a map of the Wadi Hammamat on the recto and several texts (letters, administrative, and literary) on the verso",
+      "The so-called “Turin King List”, with a list of kings written on the verso and an administrative text on the recto",
+      "The so-called “Turin Satirical-Erotic Papyrus”"
+    ],
+    "Valle dei Templi": [
+      "Kouros of Agrigento",
+      "Telamon (Olympeion)"
+    ],
+    "Museum of Fine Arts, Budapest": [
+      "Esterhazy Madonna",
+      "Jael and Sisera",
+      "Melencolia I",
+      "Portrait of Pietro Bembo",
+      "The Farmers' Lunch",
+      "The Penitent Mary Magdalene",
+      "The Sermon of Saint John the Baptist",
+      "The Water Bearer"
+    ],
+    "Louis Vuitton Foundation": [
+      "Apple Tree II"
+    ],
+    "National Museum in Warsaw": [
+      "Battle of Grunwald",
+      "Black Woman",
+      "Girl in a Picture Frame",
+      "In the Arbour",
+      "Jewess with Oranges",
+      "Skarga's Sermon",
+      "Stańczyk",
+      "The Hanging of the Sigismund bell at the Cathedral Tower in 1521 in Kraków"
+    ],
+    "National Gallery of Armenia": [
+      "Descent of Noah from Ararat",
+      "Semiramis at the corpse of Ara the Beautiful"
+    ],
+    "Istanbul Archaeology Museums": [
+      "Alexander Sarcophagus",
+      "Code of Ur-Nammu",
+      "Gezer calendar",
+      "Lycian sarcophagus of Sidon",
+      "Sarcophagus of the mourning women",
+      "Siloam inscription",
+      "Tabnit sarcophagus",
+      "The Shu-Sin Love Song Tablet"
+    ],
+    "Guimet Museum": [
+      "Anyang funerary bed",
+      "Court ladies playing chess",
+      "Golshan Album"
+    ],
+    "National Museum of Women in the Arts": [
+      "Self-Portrait Dedicated to Leon Trotsky",
+      "The Abandoned Doll",
+      "Virgin and Child"
+    ],
+    "National Museum of Western Art": [
+      "David with the Head of Goliath",
+      "Gabrielle Cot",
+      "Melencolia I",
+      "Monument to Balzac",
+      "Parisian Women in Algerian Costume",
+      "Saint Praxedis",
+      "The Wave",
+      "Waterloo Bridge series"
+    ],
+    "Museo Nazionale Romano": [
+      "Aphrodite of Menophantos",
+      "Boxer at Rest",
+      "Hellenistic Prince",
+      "Juno Ludovisi",
+      "Ludovisi Gaul",
+      "Ludovisi Throne",
+      "Via Labicana Augustus",
+      "Villa di Livia - Underground garden room"
+    ],
+    "Hamburger Kunsthalle": [
+      "Melencolia I",
+      "Nana",
+      "Neubrandenburg in Flames",
+      "Phryne before the Areopagus",
+      "Studio Wall",
+      "The Sea of Ice",
+      "Three Women in Church",
+      "Wanderer above the Sea of Fog"
+    ],
+    "Statens Museum for Kunst": [
+      "Alice",
+      "At the French Windows. The Artist's Wife",
+      "Christ as the Suffering Redeemer",
+      "In a Roman Osteria",
+      "Study of a Nude",
+      "The Fall of the Titans",
+      "The Green Stripe",
+      "View from the Artist's Window"
+    ],
+    "Musée Carnavalet": [
+      "Allée des Acacias in the Bois de Boulogne",
+      "Bijouterie Fouquet",
+      "Equestrian statuette of Charlemagne",
+      "La Gloire tirant Auguste de Villiers de l'Isle Adam de son sommeil éternel by Frédéric Brou",
+      "La Pâtisserie Gloppe",
+      "Portrait de Juliette Récamier"
+    ],
+    "Cleveland Museum of Art": [
+      "Adam and Eve",
+      "Cupid and Psyche",
+      "Knight, Death, and the Devil",
+      "La Vie",
+      "Melencolia I",
+      "Shahnameh of Shah Tahmasp",
+      "St. Jerome in His Study",
+      "The Rhinoceros"
+    ],
+    "National Museum of Archaeology": [
+      "Biche of Balazote",
+      "Lady of Baza",
+      "Lady of Elche",
+      "Lady of Galera",
+      "Lady of Ibiza",
+      "Tomb of Pozo Moro",
+      "Treasure of Gazteluberri",
+      "Treasure of Guarrazar"
+    ],
+    "National Museum in Kraków": [
+      "Beautiful Virgin Mary from Krużlowa",
+      "Frenzy of Exultations",
+      "Girl with chrysanthemums",
+      "Lady with an Ermine",
+      "Landscape with the Good Samaritan",
+      "Nero's Torches",
+      "Prussian Homage",
+      "Łaski's Statute"
+    ],
+    "Museu Nacional d'Art de Catalunya": [
+      "Apse of Sant Climent de Taüll",
+      "Madonna of Humility",
+      "Portrait of My Father",
+      "Saint Paul",
+      "Saint Peter and Saint Paul",
+      "The Odalisque",
+      "The Spanish Wedding",
+      "Virgin of the Councillors"
+    ],
+    "Fundació Joan Miró": [
+      "Barcelona Series",
+      "Constellations",
+      "Hands flying off toward the constellations",
+      "His Majesty the King",
+      "May 1968",
+      "Naked Woman Climbing a Staircase",
+      "The Caress of a Bird",
+      "The Hope of a Condemned Man"
+    ],
+    "Azerbaijan Carpet Museum": [
+      "Alpan carpet",
+      "Garachop carpet",
+      "Garagoyunlu carpet",
+      "buynuz carpet"
+    ],
+    "Moderna Museet": [
+      "Artist's Shit",
+      "Head of a Catalan Peasant",
+      "Marzella",
+      "The Child's Brain",
+      "The Dying Dandy",
+      "Why Not Sneeze, Rose Sélavy?"
+    ],
+    "Czartoryski Museum": [
+      "Lady with an Ermine",
+      "Landscape with the Good Samaritan",
+      "Lauryshava Gospel",
+      "Poland – The Year 1863",
+      "Portrait of a Young Man"
+    ],
+    "Fitzwilliam Museum": [
+      "Hours of Isabella Stuart",
+      "Hours of Philip the Bold",
+      "Joan of Arc",
+      "Rothschild Bronzes",
+      "Self-portrait with the Colosseum",
+      "Tarquin and Lucretia",
+      "The Ancient of Days",
+      "The Bridesmaid"
+    ],
+    "Accademia Carrara": [
+      "Alzano Madonna",
+      "Lochis Madonna",
+      "Mystical Marriage of St Catherine of Alexandria with Niccoló Bonghi",
+      "Pietà with Madonna and St. John the Evangelist",
+      "Portrait of Lionel d'Este",
+      "Portrait of Lucina Brembati",
+      "Saint Sebastian",
+      "The Story of Virginia"
+    ],
+    "Château de Malmaison": [
+      "Napoleon Crossing the Alps"
+    ],
+    "Hungarian National Gallery": [
+      "Japanese Woman",
+      "Pilgrimage to the Cedars of Lebanon",
+      "Spring Evening",
+      "The Balloon",
+      "The Pont-Neuf, Sunlight (Second Series)",
+      "The Visitation",
+      "The Wrestlers",
+      "Women in the Prison"
+    ],
+    "Rembrandt House Museum": [
+      "The Three Crosses"
+    ],
+    "Musée Jacquemart-André": [
+      "Candelabra Angels",
+      "Ecce Homo",
+      "Hours of Jean de Boucicaut",
+      "Madonna and Child with saints Jerome and Louis",
+      "Portrait de Mathilde de Canisy, marquise d'Antin",
+      "Portrait du comte Antoine Français de Nantes",
+      "The Model's First Sitting",
+      "The Supper at Emmaus"
+    ],
+    "Royal Academy of Fine Arts of San Fernando": [
+      "A Procession of Flagellants",
+      "La Tirana",
+      "Portrait of Manuel Godoy",
+      "Self-portrait in the Studio",
+      "The Burial of the Sardine",
+      "The Clothed Maja",
+      "The Inquisition Tribunal",
+      "The Madhouse"
+    ],
+    "Wallace Collection": [
+      "A Dance to the Music of Time",
+      "A Woman Peeling Apples",
+      "La Naissance de Vénus",
+      "Laughing Cavalier",
+      "Madame de Pompadour",
+      "Perseus and Andromeda",
+      "The Lady with a Fan",
+      "The Swing"
+    ],
+    "National Museum": [
+      "Bani Thani",
+      "Dancing Girl",
+      "Gupta art",
+      "Ivory Carved Dashavtar",
+      "Ivory carved tusk depicting Buddha life stories",
+      "Krishna and Radha in a Pavilion"
+    ],
+    "Galleria Nazionale d'Arte Antica": [
+      "Annunciation with Two Kneeling Donors",
+      "Judith Beheading Holofernes",
+      "La fornarina",
+      "Madonna and Child Enthroned",
+      "Narcissuss",
+      "Portrait of Maffeo Barberini, later Pope Urban VIII",
+      "Saint Francis in Meditation",
+      "The Mystic Marriage of Saint Catherine with Saints"
+    ],
+    "Cyprus Museum": [
+      "David Plates",
+      "Idol of Pomos"
+    ],
+    "Tehran Museum of Contemporary Art": [
+      "Brattata",
+      "Gabrielle with Open Blouse",
+      "Nude Sitting on a Divan",
+      "Shahnameh of Shah Tahmasp",
+      "Still Life with Head-Shaped Vase and Japanese Woodcut",
+      "Suicide (Purple jumping man)",
+      "The Golden Age"
+    ],
+    "Museum of Fine Arts of Lyon": [
+      "Adoration of the Magi",
+      "Bathsheba at Her Bath",
+      "Danae",
+      "Kore of Lyons",
+      "Le Café-concert aux ambassadeurs",
+      "The Flight into Egypt",
+      "The Stoning of Saint Stephen",
+      "Woman with a Parrot"
+    ],
+    "Benaki Museum": [
+      "Adoration of the Kings",
+      "Saint Anne with the Virgin",
+      "Saint Mark",
+      "St Luke painting the Virgin"
+    ],
+    "MAK – Museum of Applied Arts": [
+      "Fulfillment",
+      "Plia Chair",
+      "The Great Wave off Kanagawa",
+      "The Tree of Life",
+      "Umar Defeats a Dragon"
+    ],
+    "East Side Gallery": [
+      "My God, Help Me to Survive This Deadly Love"
+    ],
+    "MACBA Barcelona Museum of Contemporary Art": [
+      "Line Describing a Cone",
+      "Not I",
+      "Rinzen",
+      "Together we can stop AIDS",
+      "Ton Fan Group"
+    ],
+    "National Museum of Art, Architecture and Design": [
+      "Ashes",
+      "Bridal Procession on the Hardangerfjord",
+      "Dance of Life",
+      "Night in Saint-Cloud",
+      "Puberty",
+      "The Scream",
+      "View from Stalheim",
+      "Winter at the Sognefjord"
+    ],
+    "Royal Museum of Fine Arts Antwerp": [
+      "Christ with singing and music-making Angels",
+      "Cleopatra Testing Poisons on Condemned Prisoners",
+      "Jacopo Pesaro, Bishop of Paphos, being presented by Pope Alexander VI to Saint Peter",
+      "Madonna at the Fountain",
+      "Melun Diptych",
+      "Saint Barbara",
+      "Seated Nude",
+      "The Seven Sacraments"
+    ],
+    "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma": [
+      "Antigrazioso",
+      "Composition A: Composition with Black, Red, Gray, Yellow, and Blue",
+      "Hercules and Lychas",
+      "Portrait of Giuseppe Verdi",
+      "The Three Ages of Woman",
+      "Young Peasant"
+    ],
+    "Neue Nationalgalerie": [
+      "Architecture",
+      "Bridge over the Rhine in Cologne",
+      "Portrait of Erna Schilling",
+      "Potsdamer Platz",
+      "The Skat Players"
+    ],
+    "National Museum of Ancient Art": [
+      "Adoration of the Shepherds",
+      "Custódia de Belém",
+      "Deposition",
+      "Saint Jerome in His Study",
+      "Saint Paul",
+      "Saint Vincent Panels",
+      "Salome with the head of Saint John the Baptist",
+      "Temptation of Saint Anthony"
+    ],
+    "Galleria Doria Pamphilj": [
+      "Busts of Pope Innocent X",
+      "Naval Battle in the Gulf of Naples",
+      "Penitent Magdalene",
+      "Portrait of Andrea Navagero and Agostino Beazzano",
+      "Portrait of Innocent X",
+      "Rest on the Flight into Egypt",
+      "Salome with the Head of John the Baptist",
+      "The Flight into Egypt"
+    ],
+    "Salar Jung Museum": [
+      "Byblis",
+      "Mephistopheles and Margaretta",
+      "Veiled Rebecca"
+    ],
+    "Belarusian National Arts Museum": [
+      "Alexander the Great trust to physician Phillip",
+      "Night at the Rodos island",
+      "Partisan Madonna of Minsk",
+      "The Unequal Marriage",
+      "Šarašowskaje Evangelle"
+    ],
+    "Leopold Museum": [
+      "Danaë",
+      "Dead City III",
+      "Death and Life",
+      "Litzlbergkeller",
+      "On Lake Attersee",
+      "Portrait of Wally",
+      "The Hermits",
+      "Woman With a Fan"
+    ],
+    "Apsley House": [
+      "Agony in the Garden",
+      "Arthur Wellesley (1769–1852), 1st Duke of Wellington",
+      "Napoleon as Mars the Peacemaker",
+      "The Doctor's Visit in a Rich Interior",
+      "The Waterseller of Seville",
+      "Two Young Men Eating at a Humble Table"
+    ],
+    "Denver Art Museum": [
+      "Polyptych of the Duomo of Camerino"
+    ],
+    "Tel Aviv Museum of Art": [
+      "Jews Praying in the Synagogue on Yom Kippur",
+      "Shepherdess, The (after Millet)"
+    ],
+    "Museum of Fine Arts Ghent (MSK)": [
+      "A reading by Emile Verhaeren",
+      "Christ Carrying the Cross",
+      "Mary Magdalene",
+      "Melencolia I",
+      "Portrait of Marguerite van Mons",
+      "Portrait of a Kleptomaniac",
+      "Saint Jerome",
+      "Stigmatisation of Francis of Assisi"
+    ],
+    "National Archaeological Museum, Bulgaria": [
+      "Nikolaevo Treasure"
+    ],
+    "National Museum of Beirut": [
+      "Ahiram sarcophage"
+    ],
+    "Wallraf–Richartz Museum": [
+      "Adoration of the Child",
+      "Jabach Altarpiece",
+      "Juno and Argus",
+      "Madonna of the Rose Bower",
+      "Magdalene with the Smoking Flame",
+      "Marriage of Sisley",
+      "Self-portrait as Zeuxis Laughing",
+      "The Three Crosses"
+    ],
+    "Art Gallery of South Australia": [
+      "A break away!",
+      "A holiday at Mentone",
+      "Circe Invidiosa",
+      "Melencolia I",
+      "Nemesis",
+      "The Favourites of the Emperor Honorius",
+      "View of Bracciano",
+      "Winter morning after rain, Gardiner's Creek"
+    ],
+    "Kenwood House": [
+      "Portrait of Mary, Countess Howe",
+      "Self Portrait with Two Circles",
+      "The Guitar Player",
+      "Two Girls Dressing a Kitten by Candlelight"
+    ],
+    "Condé Museum": [
+      "Madonna of Loreto",
+      "Massacre of the Innocents",
+      "Melencolia I",
+      "Portrait of Simonetta Vespucci",
+      "The Duel After the Masquerade",
+      "Three Graces",
+      "Très Riches Heures du duc de Berry",
+      "Vénus Anadyomène"
+    ],
+    "National Museum Cardiff": [
+      "Duria Antiquior",
+      "Queen Eleanor",
+      "The Empty Mask",
+      "The Welsh at Mametz Wood"
+    ],
+    "Musée Fabre": [
+      "Fallen angel",
+      "La Toilette",
+      "Phaedra",
+      "Portrait of Frédéric Bazille Painting",
+      "Saint Agatha",
+      "The Bathers",
+      "The Meeting, or Bonjour, Monsieur Courbet!",
+      "View of the Village"
+    ],
+    "Odesa Fine Arts Museum": [
+      "Harvest"
+    ],
+    "Petrie Museum of Egyptian Archaeology": [
+      "Coregency Stela",
+      "Tarkhan dress"
+    ],
+    "Archaeological Museum of Thessaloniki": [
+      "Derveni krater",
+      "Derveni papyrus"
+    ],
+    "Herzog Anton Ulrich Museum": [
+      "Dying Cleopatra",
+      "Judith with the Head of Holofernes",
+      "Knight, Death, and the Devil",
+      "Portrait of a family",
+      "Self-portrait",
+      "Stormy Landscape",
+      "The Girl with the Wine Glass",
+      "The Penance of St. John Chrysostom"
+    ],
+    "Walters Art Museum": [
+      "Archimedes Palimpsest",
+      "Gatchina Palace",
+      "Madonna of the Candelabra",
+      "Rose Trellis",
+      "Sappho and Alcaeus",
+      "Springtime",
+      "The Death of Caesar",
+      "The Potato Harvest"
+    ],
+    "Dulwich Picture Gallery": [
+      "A View of Walton Bridge",
+      "Elizabeth and Mary Linley",
+      "Mrs Elizabeth Moody with her sons Samuel and Thoma",
+      "Philippe Jacques de Loutherbourg",
+      "Portrait of Jacob de Gheyn III",
+      "Saint Sebastian",
+      "Samson and Delilah",
+      "The Flower Girl"
+    ],
+    "Freer Gallery of Art": [
+      "Codex Washingtonianus",
+      "Emperor Jahangir Embraces Shah Abbas",
+      "Golshan Album",
+      "Great Mongol Shahnameh",
+      "Jahangir Preferring a Sufi Shaikh to Kings",
+      "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+      "The Peacock Room",
+      "The Princess from the Land of Porcelain"
+    ],
+    "The Cloisters": [
+      "The Hunt of the Unicorn"
+    ],
+    "Museo Poldi Pezzoli": [
+      "Blood of Christ",
+      "Lamentation over the Dead Christ with Saints",
+      "Madonna of the Book",
+      "Pietà",
+      "Portrait of a Girl",
+      "Pra' della Valle in Padua",
+      "Theseus Killing the Minotaur",
+      "Virgin and Child"
+    ],
+    "The National Museum of Modern Art, Tokyo": [
+      "Liberty Inviting Artists to Take Part in the 22nd Exhibition of the Societe des Artistes Independants"
+    ],
+    "Irish Museum of Modern Art": [
+      "Four Element Composition"
+    ],
+    "Hirshhorn Museum and Sculpture Garden": [
+      "Hotel by a Railroad",
+      "Kiepenkerl",
+      "Monument to Balzac",
+      "Working Model for Three Piece No. 3: Vertebrae"
+    ],
+    "Palazzo Ducale Mantua": [
+      "Battle between the Gonzaga and the Bonacolsi",
+      "Camera degli Sposi",
+      "The Gonzaga Family in Adoration of the Holy Trinity",
+      "Triumphs of Caesar"
+    ],
+    "National Museum of Fine Arts, Argentina": [
+      "Agony in the Garden",
+      "Juliette Courbet at the Age of Ten",
+      "La Nymphe surprise",
+      "La vuelta del malón",
+      "No bread, no work",
+      "Portrait of Suzanne Valadon",
+      "Satan's messenger",
+      "The First Mourning"
+    ],
+    "National Gallery of Slovenia": [
+      "The Sower"
+    ],
+    "The Nelson-Atkins Museum of Art": [
+      "Boulevard des Capucines",
+      "Portrait of Mrs. Cecil Wade",
+      "Portrait of Paul Lemoyne",
+      "Saint John the Baptist in the Wilderness",
+      "The Four Witches",
+      "The Lute Player series",
+      "The Temptation of Saint Anthony",
+      "White Lilacs in a Glass Vase"
+    ],
+    "Gothenburg Museum of Art": [
+      "Boys drawing",
+      "Famille d'acrobates avec singe",
+      "Hip, Hip, Hurrah!",
+      "Interior of the Fürstenberg Gallery",
+      "Man with a Falcon (possibly St. Bavo)",
+      "Nordic summer's evening",
+      "The Sick Child",
+      "Venny Soldan-Brofeldt, Artist"
+    ],
+    "Brancacci Chapel": [
+      "The Disputation with Simon Magus and the Crucifixion of Peter"
+    ],
+    "Art Museum of Georgia": [
+      "Khakhuli triptych"
+    ],
+    "Rockefeller Museum": [
+      "4Q119",
+      "4Q120",
+      "4Q122",
+      "4QMMT",
+      "Greek Minor Prophets Scroll from Nahal Hever"
+    ],
+    "National Historical Museum of Ukraine": [
+      "Sword of blacksmith Ludota"
+    ],
+    "Milwaukee Art Museum": [
+      "Boating on the Yerres",
+      "The Flag",
+      "The Two Majesties",
+      "The devoted child"
+    ],
+    "Accademia di San Luca": [
+      "Self-portrait at the Virginal with a Servant",
+      "The Victorious Athlete"
+    ],
+    "Baltimore Museum of Art": [
+      "Blue Nude",
+      "Madonna Adoring the Child with Five Angels",
+      "Mountains Mont Sainte-Victoire Seen from the Bibémus Quarry",
+      "On the Shore of the Seine",
+      "Portrait of Emilia Pia da Montefeltro",
+      "Saint Michael Fighting the Dragon",
+      "The Player Schneklud",
+      "Woman of the Mango"
+    ],
+    "Museo dell'Opera del Duomo": [
+      "Gates of Paradise",
+      "Jeremiah",
+      "Penitent Magdalene",
+      "Pensive Prophet",
+      "Saint John the Evangelist",
+      "The Deposition",
+      "The Sacrifice of Isaac",
+      "Zuccone"
+    ],
+    "Medici Chapels": [
+      "Four Crowned Martyrs",
+      "Madonna of the Rose",
+      "Saint Eligius",
+      "Saint James the Elder",
+      "Saint Luke",
+      "Saint Matthew",
+      "Saint Philip",
+      "Saint Stephen"
+    ],
+    "Museo Correr": [
+      "Crucifixion",
+      "Dead Christ Supported by Two Angels",
+      "Frizzoni Madonna",
+      "Man with Red Hat",
+      "Pietà",
+      "Portrait of Doge Giovanni Mocenigo",
+      "Transfiguration of Christ",
+      "Two Venetian Ladies"
+    ],
+    "Walker Art Gallery": [
+      "Dante and Beatrice",
+      "Dante's Dream",
+      "Echo and Narcissus",
+      "Isabella",
+      "Perseus and Andromeda",
+      "The Death of Nelson",
+      "The Hunted Slaves",
+      "The Nativity of the Virgin"
+    ],
+    "Pera Museum": [
+      "The Tortoise Trainer",
+      "Two Musician Girls"
+    ],
+    "Toledo Museum of Art": [
+      "Blind Man's Bluff",
+      "Children with a Cart",
+      "Houses at Auvers",
+      "Lot and his Daughters",
+      "The Agony in the Garden",
+      "The Aqueduct at Marly",
+      "The Architect's Dream",
+      "Venice, Grand Canal"
+    ],
+    "Norton Simon Museum": [
+      "Madonna and Child with the Book",
+      "Monument to Balzac",
+      "Portrait of the Artist's Mother",
+      "Still Life with Lemons, Oranges and a Rose",
+      "The Mulberry Tree",
+      "The Repentant Magdalene",
+      "Waiting",
+      "Wine is a Mocker"
+    ],
+    "Birmingham Museum and Art Gallery": [
+      "Medea",
+      "Pygmalion and the Image series",
+      "Sultanganj Buddha"
+    ],
+    "Bilbao Fine Arts Museum": [
+      "Kissing the Relic",
+      "Lot and His Daughters",
+      "Lucretia",
+      "Portrait of Martín Zapater",
+      "Portrait of the Poet Moratín",
+      "Venus of Poetry"
+    ],
+    "Museum of Art and History Geneva": [
+      "Friends' portrait",
+      "Hate",
+      "Le Bain turc",
+      "Naked Women playing Checkers",
+      "Orpheus dismembered",
+      "Portrait of Madame de Staël as Corinne on Cape Misenum",
+      "The Miraculous Draft of Fishes"
+    ],
+    "Berlinische Galerie": [
+      "Dada-Review",
+      "Daum Marries Her Pedantic Automaton \"George\" in May 1920"
+    ],
+    "Dallas Museum of Art": [
+      "Apollo and Diana Attacking the Children of Niobe",
+      "Bonneville, Savoy",
+      "Fox in the Snow",
+      "Le Pont Neuf",
+      "The Abduction of Europa",
+      "The Fountain of Vaucluse",
+      "The Icebergs",
+      "The Tea Service"
+    ],
+    "National Art Museum of China": [
+      "Ton Fan Group"
+    ],
+    "National Museum of Art of Romania": [
+      "Adoration of the Shepherds",
+      "Girls Spinning at the Gate",
+      "Portrait of Lady Roxanda",
+      "The Marriage of the Virgin",
+      "The Sunflower"
+    ],
+    "National Museum in Wrocław": [
+      "1 April 1656 Oath by John II Casimir Vasa (historical subject)",
+      "Christ at the Column",
+      "Entry of Jerzy Ossoliński into Rome in 1633",
+      "Holy Trinity of Wrocław",
+      "Portrait of a priest",
+      "Środa Treasure"
+    ],
+    "Yale University Art Gallery": [
+      "1472 Polyptych",
+      "Am I Not a Man and a Brother?",
+      "An Allegory of Intemperance",
+      "Hail Caesar! We Who Are about to Die Salute You",
+      "Hercules and Deianira",
+      "The Harbor of La Rochelle",
+      "The Knife Grinder",
+      "The Night Café"
+    ],
+    "Sorolla Museum": [
+      "Autorretrato Joaquín Sorolla (1904)",
+      "Clotilde García del Castillo",
+      "Clotilde in evening dress",
+      "Clotilde seated on the Sofa",
+      "Contadina de Asís",
+      "Joaquín Sorolla García dressed in white",
+      "The Forest. La Granja",
+      "Walk on the mountain"
+    ],
+    "Pennsylvania Academy of the Fine Arts": [
+      "Fox Hunt",
+      "George Washington at Princeton",
+      "The Artist in His Museum"
+    ],
+    "Palazzo Colonna": [
+      "Pala di San Pietro di Muralto",
+      "Roverella Altarpiece",
+      "The Bean Eater"
+    ],
+    "Museo Nazionale Etrusco di Villa Giulia": [
+      "Apollo of Veii",
+      "Chigi vase",
+      "Euphronios krater",
+      "Ficoroni Cista",
+      "Pyrgi Tablets",
+      "Sarcophagus of the Spouses"
+    ],
+    "Casa Buonarroti": [
+      "Allegory of Inclination",
+      "Battle of the Centaurs",
+      "Madonna of the Stair",
+      "River God torso",
+      "Torso virile II",
+      "Two Wrestlers"
+    ],
+    "National Art Gallery of Bulgaria": [
+      "Erma River by the Town of Tran",
+      "Lucifer"
+    ],
+    "National Gallery of Norway": [
+      "Ashes",
+      "Bridal Procession on the Hardangerfjord",
+      "Kiss by the Window",
+      "Madame Manet in the Conservatory",
+      "Night in Saint-Cloud",
+      "Puberty",
+      "Self-Portrait with Cigarette",
+      "Winter Night in the Mountains"
+    ],
+    "Heraklion Archaeological Museum": [
+      "Bull-Leaping Fresco",
+      "Gaming board from Knossos",
+      "Harvester vase",
+      "La Parisienne",
+      "Ladies in Blue",
+      "Phaistos disc",
+      "Prince of the Lilies",
+      "The bee pendant"
+    ],
+    "National Museum of Slovenia": [
+      "Divje Babe flute",
+      "Vače situla"
+    ],
+    "Kunsthalle Bremen": [
+      "Before and After",
+      "Camille",
+      "Death and the Child",
+      "Morning Awakening",
+      "Portrait of Zacharie Astruc",
+      "Saint Anthony Tormented by Demons",
+      "The Nap, Peasant Woman Lying in the Grass, Pontoise",
+      "The Women's Bath"
+    ],
+    "Teylers Museum": [
+      "Adam and Eve",
+      "Large electrostatic generator",
+      "Top of the Mont Blanc",
+      "View from Dekkersduin"
+    ],
+    "Brücke Museum": [
+      "Five Bathing Women at a Lake"
+    ],
+    "Arthur M. Sackler Gallery": [
+      "Great Mongol Shahnameh"
+    ],
+    "The Phillips Collection": [
+      "Horses Coming Out of the Sea",
+      "Luncheon of the Boating Party",
+      "Miss Amelia Van Buren",
+      "Portrait of Elena Pavlowski",
+      "The Blue Room",
+      "The Repentant St. Peter",
+      "Wheat Field at Auvers with House"
+    ],
+    "Smithsonian National Portrait Gallery": [
+      "Athenaeum Portrait",
+      "First Lady Michelle Obama",
+      "Lansdowne Portrait",
+      "Phillis Wheatley",
+      "Washington in the Uniform of a British Colonial Colonel"
+    ],
+    "National Taiwan Museum of Fine Arts": [
+      "Lotus Pond",
+      "Ton Fan Group"
+    ],
+    "Smithsonian American Art Museum": [
+      "Aurora Borealis",
+      "Constantine ruble",
+      "George Washington",
+      "Halo 2600",
+      "Sha-có-pay, The Six, Chief of the Plains Ojibwa",
+      "The Headless Horseman Pursuing Ichabod Crane",
+      "The Subsiding of the Waters of the Deluge",
+      "Young Omahaw, War Eagle, Little Missouri, and Pawnees"
+    ],
+    "National Museum of American History": [
+      "Brownie",
+      "Cher Ami",
+      "Star Spangled Banner Flag",
+      "USS Philadelphia",
+      "We Can Do It!"
+    ],
+    "National Museum of African American History and Culture": [
+      "Hair Like Mine"
+    ],
+    "United States Holocaust Memorial Museum": [
+      "Auschwitz Protocols",
+      "Höcker Album",
+      "Korherr Report",
+      "Sobibor perpetrator album"
+    ],
+    "National Archives Museum": [
+      "A Jewish boy surrenders in Warsaw",
+      "Executive Order 9981",
+      "Franck Report",
+      "Into the Jaws of Death",
+      "Nixon White House tapes",
+      "Pink Chanel suit of Jacqueline Bouvier Kennedy",
+      "Presidential Proclamation 4311 of September 8, 1974, by President Gerald R. Ford granting a pardon to Richard M. Nixon. (NAID 299996)",
+      "Raising the Flag on Iwo Jima"
+    ],
+    "Museum of the Bible": [
+      "Papyrus 130",
+      "Papyrus 131",
+      "Papyrus 135"
+    ],
+    "Library of Congress": [
+      "Adam and Eve",
+      "Gugusse and the Automaton",
+      "Gutenberg Bible",
+      "Lincoln Bible",
+      "The Ancient of Days",
+      "Valley of the Shadow of Death",
+      "Virginia Declaration of Rights",
+      "الاهرام"
+    ],
+    "Folger Shakespeare Library": [
+      "Ashbourne portrait"
+    ],
+    "Hillwood Estate, Museum & Gardens": [
+      "A Boyar Wedding Feast",
+      "Catherine the Great",
+      "The night"
+    ],
+    "Dumbarton Oaks": [
+      "Dumbarton Oaks birthing figure",
+      "Hestia Tapestry",
+      "The Sion Treasure",
+      "The Visitation"
+    ]
+  }
 }
