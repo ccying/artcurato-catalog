@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-08-25",
+  "version": 7,
+  "updated": "2026-10-03",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -37,7 +37,44 @@
       "longitude": 35.204167,
       "domain": "imj.org.il",
       "websiteURL": "https://www.imj.org.il/en",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Fountain",
+          "creator": "Marcel Duchamp",
+          "medium": "Oil"
+        },
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Tel Dan Stele"
+        },
+        {
+          "title": "Knight, Death, and the Devil",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "St. Jerome in His Study",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "War of the Sons of Light Against the Sons of Darkness"
+        },
+        {
+          "title": "L.H.O.O.Q.",
+          "creator": "Marcel Duchamp",
+          "medium": "Pencil"
+        },
+        {
+          "title": "Unique Forms of Continuity in Space",
+          "creator": "Umberto Boccioni",
+          "medium": "Bronze"
+        }
+      ]
     },
     {
       "name": "São Paulo Museum of Art",
@@ -49,7 +86,48 @@
       "longitude": -46.655833,
       "domain": "masp.org.br",
       "websiteURL": "https://masp.org.br/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Resurrection of Christ",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Pink and Blue",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Boating on the River Epte",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Suzanne Bloch",
+          "creator": "Pablo Picasso",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Virgin and Child with the Infant John the Baptist",
+          "creator": "Sandro Botticelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Portrait of the Count-Duke of Olivares",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Bather with a Griffon Dog",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Jerome in the desert",
+          "creator": "Andrea Mantegna",
+          "medium": "Tempera on panel"
+        }
+      ]
     },
     {
       "name": "Bible Lands Museum",
@@ -61,7 +139,12 @@
       "longitude": 35.202476,
       "domain": "blmj.org",
       "websiteURL": "https://www.blmj.org/en/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Anthropoid sarcophagi of Deir al-Balah",
+          "medium": "Ceramic"
+        }
+      ]
     },
     {
       "name": "Egyptian Museum",
@@ -85,7 +168,16 @@
       "longitude": 0.062222,
       "domain": "chateau-montsoreau.com",
       "websiteURL": "https://www.chateau-montsoreau.com/wordpress/fr/informations-pratiques/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Art-Language the journal of conceptual art",
+          "creator": "Art & Language"
+        },
+        {
+          "title": "Index: Incident in a Museum (Art & Language)",
+          "creator": "Art & Language"
+        }
+      ]
     },
     {
       "name": "Tretyakov Gallery",
@@ -97,7 +189,45 @@
       "longitude": 37.620864,
       "domain": "tretyakovgallery.ru",
       "websiteURL": "https://www.tretyakovgallery.ru",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Black Square (1915)",
+          "creator": "Kazimir Malevich",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Ivan the Terrible and his son Ivan on November 16, 1581",
+          "creator": "Ilya Repin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Theotokos of Vladimir",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Morning in a Pine Forest",
+          "creator": "Konstantin Savitsky",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of an Unknown Woman",
+          "creator": "Ivan Kramskoi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Eleusa"
+        },
+        {
+          "title": "Christ in the Wilderness",
+          "creator": "Ivan Kramskoi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "They Did Not Expect Him",
+          "creator": "Ilya Repin",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Derby Museum and Art Gallery",
@@ -109,7 +239,45 @@
       "longitude": -1.48003,
       "domain": "derbymuseums.org",
       "websiteURL": "https://www.derbymuseums.org/museum-and-art-gallery/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "A Journalist Lecturing on the Orrery",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Alchemist Discovering Phosphorus",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Indian Widow",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Romeo and Juliet: the Tomb Scene",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Hanson Log Boat",
+          "medium": "Wood"
+        },
+        {
+          "title": "Whitehurst & Son sundial",
+          "medium": "Bronze"
+        },
+        {
+          "title": "The Captive King",
+          "creator": "Joseph Wright of Derby"
+        },
+        {
+          "title": "A Philosopher by Lamplight",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Palazzo Pitti",
@@ -121,7 +289,13 @@
       "longitude": 11.250008,
       "domain": "uffizi.it",
       "websiteURL": "https://www.uffizi.it/palazzo-pitti",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ecstasy of Saint Margaret of Cortona",
+          "creator": "Giovanni Lanfranco",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Palace of Caserta",
@@ -157,7 +331,48 @@
       "longitude": 30.332221,
       "domain": "rusmuseum.ru",
       "websiteURL": "https://rusmuseum.ru/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Reply of the Zaporozhian Cossacks",
+          "creator": "Ilya Repin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Barge Haulers on the Volga",
+          "creator": "Ilya Repin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Ninth Wave",
+          "creator": "Ivan Aivazovsky",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Last Day of Pompeii",
+          "creator": "Karl Bryullov",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Moonlit Night on the Dnieper",
+          "creator": "Arkhip Kuindzhi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Red Square",
+          "creator": "Kazimir Malevich",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Sadko",
+          "creator": "Ilya Repin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Red Cavalry Riding",
+          "creator": "Kazimir Malevich",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Pushkin Museum of Fine Arts",
@@ -169,7 +384,46 @@
       "longitude": 37.606029,
       "domain": "pushkinmuseum.art",
       "websiteURL": "https://pushkinmuseum.art/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Red Vineyard",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Priam's Treasure"
+        },
+        {
+          "title": "Blue Dancers",
+          "creator": "Edgar Degas",
+          "medium": "Pastel"
+        },
+        {
+          "title": "Prisoners Exercising",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Aha Oe Feii?",
+          "creator": "Paul Gauguin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Mardi Gras",
+          "creator": "Paul Cézanne",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of the actress Jeanne Samary",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Young Girls in Black",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Brooklyn Museum",
@@ -181,7 +435,42 @@
       "longitude": -73.963631,
       "domain": "brooklynmuseum.org",
       "websiteURL": "https://www.brooklynmuseum.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Dinner Party",
+          "creator": "Judy Chicago"
+        },
+        {
+          "title": "Blue Qur'an",
+          "medium": "Vellum"
+        },
+        {
+          "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+          "creator": "Utagawa Hiroshige",
+          "medium": "Ink on paper"
+        },
+        {
+          "title": "list of women in the Heritage Floor",
+          "creator": "Judy Chicago"
+        },
+        {
+          "title": "Plum Park in Kameido",
+          "creator": "Utagawa Hiroshige",
+          "medium": "Ink on paper"
+        },
+        {
+          "title": "Wilbour Papyrus",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Painting of Lady Tjepu"
+        },
+        {
+          "title": "A Storm in the Rocky Mountains, Mt. Rosalie",
+          "creator": "Albert Bierstadt",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Art Museum of Azerbaijan",
@@ -193,7 +482,42 @@
       "longitude": 49.831667,
       "domain": "nationalartmuseum.az",
       "websiteURL": "http://nationalartmuseum.az/?lang=az",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Darvish",
+          "creator": "Mirza Gadim Iravani"
+        },
+        {
+          "title": "Land of Fire",
+          "creator": "Tahir Teimurovitsch Salakhov",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of a Young Man",
+          "creator": "Mirza Gadim Iravani"
+        },
+        {
+          "title": "Ship in a storm",
+          "creator": "Ivan Aivazovsky"
+        },
+        {
+          "title": "For You",
+          "creator": "Tahir Teimurovitsch Salakhov",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Funeral of Ferdowsi",
+          "creator": "Ghazanfar Khaligov"
+        },
+        {
+          "title": "Dream Land",
+          "creator": "Sattar Bahlulzade"
+        },
+        {
+          "title": "Portrait of a seated woman",
+          "creator": "Mirza Gadim Iravani"
+        }
+      ]
     },
     {
       "name": "Villa Romana del Casale",
@@ -205,7 +529,11 @@
       "longitude": 14.334553,
       "domain": "villaromanadelcasale.it",
       "websiteURL": "http://www.villaromanadelcasale.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Big Game Hunt mosaic"
+        }
+      ]
     },
     {
       "name": "Grand Egyptian Museum",
@@ -229,7 +557,13 @@
       "longitude": 2.314556,
       "domain": "petitpalais.paris.fr",
       "websiteURL": "http://www.petitpalais.paris.fr",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Dream of the Doctor",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        }
+      ]
     },
     {
       "name": "Palais des Papes",
@@ -253,7 +587,40 @@
       "longitude": -1.26056,
       "domain": "ashmolean.org",
       "websiteURL": "https://www.ashmolean.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Oxyrhynchus Papyri",
+          "medium": "Papyrus and parchment"
+        },
+        {
+          "title": "Parian Chronicle",
+          "medium": "Parian marble"
+        },
+        {
+          "title": "Alfred Jewel"
+        },
+        {
+          "title": "Narmer Macehead",
+          "medium": "Limestone"
+        },
+        {
+          "title": "Scorpion Macehead",
+          "medium": "Limestone"
+        },
+        {
+          "title": "Weld-Blundell Prism",
+          "medium": "Clay"
+        },
+        {
+          "title": "The Return of the Dove to the Ark",
+          "creator": "John Everett Millais",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Messiah Stradivarius",
+          "creator": "Antonio Stradivari"
+        }
+      ]
     },
     {
       "name": "Baths of Caracalla",
@@ -289,7 +656,47 @@
       "longitude": 12.328139,
       "domain": "gallerieaccademia.it",
       "websiteURL": "http://www.gallerieaccademia.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Vitruvian Man",
+          "creator": "Leonardo da Vinci"
+        },
+        {
+          "title": "The Tempest",
+          "creator": "Giorgione",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Feast in the House of Levi",
+          "creator": "Paolo Veronese",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Pietà",
+          "creator": "Palma il Giovane",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Miracle of the Slave",
+          "creator": "Jacopo Tintoretto",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "St Mark's Body Brought to Venice",
+          "creator": "Jacopo Tintoretto",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madonna and Child enthroned with Saints and Angels",
+          "creator": "Giovanni Bellini",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Hermit Saint",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Champaner-Pavagadh Archaeological Park",
@@ -313,7 +720,30 @@
       "longitude": 11.565815,
       "domain": "antike-am-koenigsplatz.mwn.de",
       "websiteURL": "https://www.antike-am-koenigsplatz.mwn.de/en/glyptothek-munich.html",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Barberini Faun",
+          "medium": "Marble"
+        },
+        {
+          "title": "Kouros of Tenea",
+          "medium": "Parian marble"
+        },
+        {
+          "title": "Medusa Rondanini",
+          "medium": "Marble"
+        },
+        {
+          "title": "Munich Kouros",
+          "medium": "Marble"
+        },
+        {
+          "title": "Apollo Barberini"
+        },
+        {
+          "title": "IvO 240/241"
+        }
+      ]
     },
     {
       "name": "Musée d'art moderne de Paris",
@@ -325,7 +755,38 @@
       "longitude": 2.2978,
       "domain": "mam.paris.fr",
       "websiteURL": "https://www.mam.paris.fr",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ritratto di Lunia Czechowska con ventaglio",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Woman with Blue Eyes",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La Fée Électricité",
+          "creator": "Raoul Dufy",
+          "medium": "Oil"
+        },
+        {
+          "title": "The Dance",
+          "creator": "Henri Matisse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Bathers",
+          "creator": "Albert Gleizes",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Still Life with Candlestick",
+          "creator": "Fernand Léger",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Royal Academy of Arts",
@@ -337,7 +798,47 @@
       "longitude": -0.139444,
       "domain": "royalacademy.org.uk",
       "websiteURL": "https://www.royalacademy.org.uk",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Taddei Tondo",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "A Mermaid",
+          "creator": "John William Waterhouse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Thor Battering the Midgard Serpent",
+          "creator": "Henry Fuseli",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-Portrait",
+          "creator": "Joshua Reynolds",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Boy and Rabbit",
+          "creator": "Henry Raeburn",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Leaping Horse",
+          "creator": "John Constable",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Last supper by Giampietrino",
+          "creator": "Giampietrino",
+          "medium": "Oil"
+        },
+        {
+          "title": "An Interior in Venice",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Bargello National Museum",
@@ -349,7 +850,47 @@
       "longitude": 11.258008,
       "domain": "bargellomusei.it.",
       "websiteURL": "https://bargellomusei.it./musei/museo-nazionale-del-bargello",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "David",
+          "creator": "Donatello",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Bacchus",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Franks Casket",
+          "medium": "Whalebone"
+        },
+        {
+          "title": "David with the head of Goliath",
+          "creator": "Andrea del Verrocchio",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Brutus",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Pitti Tondo",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Apollo",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Gallino Crucifix",
+          "creator": "Michelangelo",
+          "medium": "Wood"
+        }
+      ]
     },
     {
       "name": "Madinat Al-Zahra",
@@ -373,7 +914,21 @@
       "longitude": 32.861944,
       "domain": "anadolumedeniyetlerimuzesi.gov.tr",
       "websiteURL": "http://www.anadolumedeniyetlerimuzesi.gov.tr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Seated Woman of Çatalhöyük",
+          "creator": "678",
+          "medium": "Ceramic"
+        },
+        {
+          "title": "Herakleia head"
+        },
+        {
+          "title": "İnandık Vase",
+          "creator": "Hittites",
+          "medium": "Terracotta"
+        }
+      ]
     },
     {
       "name": "Blue Grotto",
@@ -397,7 +952,48 @@
       "longitude": 11.879536,
       "domain": "cappelladegliscrovegni.it",
       "websiteURL": "http://www.cappelladegliscrovegni.it",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lamentation",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Flight into Egypt",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Kiss of Judas",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "The Raising of Lazarus",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Last Judgment",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Entry into Jerusalem",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Massacre of the Innocents",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Adoration of the Magi",
+          "creator": "Giotto",
+          "medium": "Fresco"
+        }
+      ]
     },
     {
       "name": "Scottish National Gallery",
@@ -409,7 +1005,43 @@
       "longitude": -3.195686,
       "domain": "nationalgalleries.org",
       "websiteURL": "https://www.nationalgalleries.org/visit/scottish-national-gallery",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Christ in the House of Martha and Mary",
+          "creator": "Johannes Vermeer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Skating Minister",
+          "creator": "Henry Raeburn",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Niagara Falls, from the American Side",
+          "creator": "Frederic Edwin Church",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A Woman in Bed",
+          "creator": "Rembrandt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Bust of Carlo Antonio del Pozzo",
+          "creator": "Gian Lorenzo Bernini",
+          "medium": "Marble"
+        },
+        {
+          "title": "An Allegory of the Old and New Testaments",
+          "creator": "Hans Holbein the Younger",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Alexander III of Scotland Rescued from the Fury of a Stag by the Intrepidity of Colin Fitzgerald",
+          "creator": "Benjamin West",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Academy of Fine Arts Vienna",
@@ -421,7 +1053,33 @@
       "longitude": 16.365103,
       "domain": "akbild.ac.at",
       "websiteURL": "https://www.akbild.ac.at/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Last Judgment",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Boreas Abducting Oreithyia",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Self-portrait",
+          "creator": "Anthony van Dyck",
+          "medium": "Oil"
+        },
+        {
+          "title": "Group portrait of an unknown family or company",
+          "creator": "Pieter de Hooch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lucretia",
+          "creator": "Lucas Cranach the Elder",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Museo Egizio",
@@ -433,7 +1091,40 @@
       "longitude": 7.684444,
       "domain": "museoegizio.it",
       "websiteURL": "https://www.museoegizio.it",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The so-called “Turin King List”, with a list of kings written on the verso and an administrative text on the recto",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "The so-called “Goldmine Papyrus” with a map of the Wadi Hammamat on the recto and several texts (letters, administrative, and literary) on the verso",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "The so-called “Turin Satirical-Erotic Papyrus”",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Temple of Ellesyia",
+          "medium": "Sandstone"
+        },
+        {
+          "title": "Bembine Tablet",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Judicial Papyrus of Turin",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Papyri of Gebelein",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Figured ostracon showing a dancer in an acrobatic position",
+          "medium": "Limestone"
+        }
+      ]
     },
     {
       "name": "Su Nuraxi di Barumini",
@@ -457,7 +1148,16 @@
       "longitude": 13.59,
       "domain": "parcovalledeitempli.it",
       "websiteURL": "https://www.parcovalledeitempli.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Kouros of Agrigento",
+          "medium": "Marble"
+        },
+        {
+          "title": "Telamon (Olympeion)",
+          "medium": "Calcarenite"
+        }
+      ]
     },
     {
       "name": "Museum of Fine Arts, Budapest",
@@ -469,7 +1169,48 @@
       "longitude": 19.07678,
       "domain": "mfab.hu",
       "websiteURL": "https://www.mfab.hu/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "The Farmers' Lunch",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Sermon of Saint John the Baptist",
+          "creator": "Pieter Brueghel the Elder",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Jael and Sisera",
+          "creator": "Artemisia Gentileschi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Penitent Mary Magdalene",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Esterhazy Madonna",
+          "creator": "Raphael",
+          "medium": "Oil and tempera on panel"
+        },
+        {
+          "title": "Portrait of Pietro Bembo",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Water Bearer",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Louis Vuitton Foundation",
@@ -481,7 +1222,13 @@
       "longitude": 2.263333,
       "domain": "fondationlouisvuitton.fr",
       "websiteURL": "https://www.fondationlouisvuitton.fr",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Apple Tree II",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Segesta",
@@ -505,7 +1252,48 @@
       "longitude": 21.024722,
       "domain": "mnw.art.pl",
       "websiteURL": "https://www.mnw.art.pl/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Battle of Grunwald",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Stańczyk",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Jewess with Oranges",
+          "creator": "Aleksander Gierymski",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "In the Arbour",
+          "creator": "Aleksander Gierymski",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Hanging of the Sigismund bell at the Cathedral Tower in 1521 in Kraków",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Skarga's Sermon",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Black Woman",
+          "creator": "Anna Bilińska-Bohdanowicz",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Girl in a Picture Frame",
+          "creator": "Rembrandt",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Musée du quai Branly",
@@ -541,7 +1329,18 @@
       "longitude": 44.514167,
       "domain": "gallery.am",
       "websiteURL": "https://gallery.am",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Descent of Noah from Ararat",
+          "creator": "Ivan Aivazovsky",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Semiramis at the corpse of Ara the Beautiful",
+          "creator": "Vardges Sureniants",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Istanbul Archaeology Museums",
@@ -553,7 +1352,36 @@
       "longitude": 28.981389,
       "domain": "muze.gov.tr",
       "websiteURL": "https://muze.gov.tr/muze-detay?SectionId=IAR01&DistId=IAR",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Code of Ur-Nammu",
+          "medium": "Clay"
+        },
+        {
+          "title": "Alexander Sarcophagus",
+          "medium": "Marble"
+        },
+        {
+          "title": "Gezer calendar",
+          "medium": "Limestone"
+        },
+        {
+          "title": "Siloam inscription"
+        },
+        {
+          "title": "Lycian sarcophagus of Sidon"
+        },
+        {
+          "title": "Tabnit sarcophagus"
+        },
+        {
+          "title": "The Shu-Sin Love Song Tablet"
+        },
+        {
+          "title": "Sarcophagus of the mourning women",
+          "medium": "Marble"
+        }
+      ]
     },
     {
       "name": "Ambras Castle",
@@ -577,7 +1405,18 @@
       "longitude": 2.293889,
       "domain": "guimet.fr",
       "websiteURL": "http://www.guimet.fr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Golshan Album"
+        },
+        {
+          "title": "Court ladies playing chess"
+        },
+        {
+          "title": "Anyang funerary bed",
+          "medium": "Marble"
+        }
+      ]
     },
     {
       "name": "National Museum of Women in the Arts",
@@ -589,7 +1428,23 @@
       "longitude": -77.029315,
       "domain": "nmwa.org",
       "websiteURL": "https://nmwa.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Abandoned Doll",
+          "creator": "Suzanne Valadon",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Virgin and Child",
+          "creator": "Elisabetta Sirani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-Portrait Dedicated to Leon Trotsky",
+          "creator": "Frida Kahlo",
+          "medium": "Oil"
+        }
+      ]
     },
     {
       "name": "Museo di Capodimonte",
@@ -613,7 +1468,46 @@
       "longitude": 139.77585,
       "domain": "nmwa.go.jp",
       "websiteURL": "https://www.nmwa.go.jp/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Saint Praxedis",
+          "creator": "Johannes Vermeer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Gabrielle Cot",
+          "creator": "William-Adolphe Bouguereau",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Waterloo Bridge series",
+          "creator": "Claude Monet"
+        },
+        {
+          "title": "Parisian Women in Algerian Costume",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Wave",
+          "creator": "Gustave Courbet"
+        },
+        {
+          "title": "Monument to Balzac",
+          "creator": "Auguste Rodin",
+          "medium": "Bronze"
+        },
+        {
+          "title": "David with the Head of Goliath",
+          "creator": "Guercino",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Louvre Abu Dhabi",
@@ -649,7 +1543,42 @@
       "longitude": 12.499018,
       "domain": "museonazionaleromano.beniculturali.it",
       "websiteURL": "http://www.museonazionaleromano.beniculturali.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ludovisi Throne",
+          "medium": "Marble"
+        },
+        {
+          "title": "Boxer at Rest",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Ludovisi Gaul",
+          "creator": "Epigonus of Pergamum",
+          "medium": "Marble"
+        },
+        {
+          "title": "Juno Ludovisi",
+          "medium": "Marble"
+        },
+        {
+          "title": "Via Labicana Augustus",
+          "medium": "Marble"
+        },
+        {
+          "title": "Aphrodite of Menophantos",
+          "creator": "Menophantus",
+          "medium": "Marble"
+        },
+        {
+          "title": "Hellenistic Prince",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Villa di Livia - Underground garden room",
+          "medium": "Fresco"
+        }
+      ]
     },
     {
       "name": "Hamburger Kunsthalle",
@@ -661,7 +1590,48 @@
       "longitude": 10.003056,
       "domain": "hamburger-kunsthalle.de",
       "websiteURL": "https://www.hamburger-kunsthalle.de/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Wanderer above the Sea of Fog",
+          "creator": "Caspar David Friedrich",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "The Sea of Ice",
+          "creator": "Caspar David Friedrich",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Nana",
+          "creator": "Édouard Manet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Phryne before the Areopagus",
+          "creator": "Jean-Léon Gérôme",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Three Women in Church",
+          "creator": "Wilhelm Leibl",
+          "medium": "Oil"
+        },
+        {
+          "title": "Studio Wall",
+          "creator": "Adolph von Menzel",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Neubrandenburg in Flames",
+          "creator": "Caspar David Friedrich",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Art Museum of Ukraine",
@@ -697,7 +1667,48 @@
       "longitude": 12.57861,
       "domain": "smk.dk",
       "websiteURL": "https://www.smk.dk",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Alice",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil"
+        },
+        {
+          "title": "In a Roman Osteria",
+          "creator": "Carl Bloch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Green Stripe",
+          "creator": "Henri Matisse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Study of a Nude",
+          "creator": "Paul Gauguin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Christ as the Suffering Redeemer",
+          "creator": "Andrea Mantegna",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "At the French Windows. The Artist's Wife",
+          "creator": "Laurits Andersen Ring",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Fall of the Titans",
+          "creator": "Cornelis van Haarlem",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "View from the Artist's Window",
+          "creator": "Martinus Rørbye",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Musée Carnavalet",
@@ -709,7 +1720,35 @@
       "longitude": 2.362745,
       "domain": "carnavalet.paris.fr",
       "websiteURL": "http://carnavalet.paris.fr",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Equestrian statuette of Charlemagne",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Portrait de Juliette Récamier",
+          "creator": "François Gérard",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La Pâtisserie Gloppe",
+          "creator": "Jean Béraud",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Allée des Acacias in the Bois de Boulogne",
+          "creator": "Roger de La Fresnaye",
+          "medium": "Gouache on cardboard"
+        },
+        {
+          "title": "La Gloire tirant Auguste de Villiers de l'Isle Adam de son sommeil éternel by Frédéric Brou",
+          "creator": "Frédéric Brou",
+          "medium": "Plaster"
+        },
+        {
+          "title": "Bijouterie Fouquet"
+        }
+      ]
     },
     {
       "name": "Cleveland Museum of Art",
@@ -721,7 +1760,44 @@
       "longitude": -81.611667,
       "domain": "clevelandart.org",
       "websiteURL": "https://www.clevelandart.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Rhinoceros",
+          "creator": "Albrecht Dürer"
+        },
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Knight, Death, and the Devil",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "St. Jerome in His Study",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Shahnameh of Shah Tahmasp"
+        },
+        {
+          "title": "La Vie",
+          "creator": "Pablo Picasso",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Cupid and Psyche",
+          "creator": "Jacques-Louis David",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Adam and Eve",
+          "creator": "Albrecht Dürer"
+        }
+      ]
     },
     {
       "name": "National Museum of Archaeology",
@@ -733,7 +1809,37 @@
       "longitude": -3.689422,
       "domain": "man.es",
       "websiteURL": "https://man.es",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lady of Elche",
+          "medium": "Limestone"
+        },
+        {
+          "title": "Treasure of Guarrazar"
+        },
+        {
+          "title": "Lady of Baza",
+          "medium": "Sandstone"
+        },
+        {
+          "title": "Lady of Ibiza",
+          "medium": "Stone"
+        },
+        {
+          "title": "Biche of Balazote",
+          "medium": "Limestone"
+        },
+        {
+          "title": "Lady of Galera",
+          "medium": "Alabaster"
+        },
+        {
+          "title": "Tomb of Pozo Moro"
+        },
+        {
+          "title": "Treasure of Gazteluberri"
+        }
+      ]
     },
     {
       "name": "Ateneum",
@@ -757,7 +1863,45 @@
       "longitude": 19.923889,
       "domain": "mnk.pl",
       "websiteURL": "https://mnk.pl/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lady with an Ermine",
+          "creator": "Leonardo da Vinci",
+          "medium": "Tempera and oil on panel"
+        },
+        {
+          "title": "Prussian Homage",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Frenzy of Exultations",
+          "creator": "Władysław Podkowiński",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Girl with chrysanthemums",
+          "medium": "Oil on board"
+        },
+        {
+          "title": "Łaski's Statute",
+          "medium": "Parchment"
+        },
+        {
+          "title": "Beautiful Virgin Mary from Krużlowa",
+          "medium": "Wood"
+        },
+        {
+          "title": "Nero's Torches",
+          "creator": "Henryk Siemiradzki",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Landscape with the Good Samaritan",
+          "creator": "Rembrandt",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Museu Nacional d'Art de Catalunya",
@@ -769,7 +1913,47 @@
       "longitude": 2.153306,
       "domain": "museunacional.cat",
       "websiteURL": "https://www.museunacional.cat/ca",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Saint Peter and Saint Paul",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madonna of Humility",
+          "creator": "Fra Angelico",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Saint Paul",
+          "creator": "Diego Velázquez",
+          "medium": "Oil"
+        },
+        {
+          "title": "Virgin of the Councillors",
+          "creator": "Lluís Dalmau",
+          "medium": "Tempera and oil"
+        },
+        {
+          "title": "The Odalisque",
+          "creator": "Mariano Fortuny Marsal",
+          "medium": "Oil on cardboard"
+        },
+        {
+          "title": "The Spanish Wedding",
+          "creator": "Mariano Fortuny Marsal",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Apse of Sant Climent de Taüll",
+          "creator": "Master of Taüll"
+        },
+        {
+          "title": "Portrait of My Father",
+          "creator": "Salvador Dalí",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Gallery of Victoria",
@@ -817,7 +2001,44 @@
       "longitude": 2.16,
       "domain": "fmirobcn.org",
       "websiteURL": "https://www.fmirobcn.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Hope of a Condemned Man",
+          "creator": "Joan Miró",
+          "medium": "Acrylic on canvas"
+        },
+        {
+          "title": "The Caress of a Bird",
+          "creator": "Joan Miró",
+          "medium": "Bronze"
+        },
+        {
+          "title": "May 1968",
+          "creator": "Joan Miró",
+          "medium": "Oil and acrylic on canvas"
+        },
+        {
+          "title": "Constellations",
+          "creator": "Joan Miró"
+        },
+        {
+          "title": "Barcelona Series",
+          "creator": "Joan Miró"
+        },
+        {
+          "title": "Naked Woman Climbing a Staircase",
+          "creator": "Joan Miró"
+        },
+        {
+          "title": "Hands flying off toward the constellations",
+          "creator": "Joan Miró",
+          "medium": "Acrylic on canvas"
+        },
+        {
+          "title": "His Majesty the King",
+          "creator": "Joan Miró"
+        }
+      ]
     },
     {
       "name": "Kumu",
@@ -853,7 +2074,20 @@
       "longitude": 49.835475,
       "domain": "azcarpetmuseum.az",
       "websiteURL": "http://www.azcarpetmuseum.az/index_eng.htm",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "buynuz carpet"
+        },
+        {
+          "title": "Garachop carpet"
+        },
+        {
+          "title": "Garagoyunlu carpet"
+        },
+        {
+          "title": "Alpan carpet"
+        }
+      ]
     },
     {
       "name": "Moderna Museet",
@@ -865,7 +2099,37 @@
       "longitude": 18.084688,
       "domain": "modernamuseet.se",
       "websiteURL": "http://www.modernamuseet.se",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Artist's Shit",
+          "creator": "Piero Manzoni",
+          "medium": "Human feces and can"
+        },
+        {
+          "title": "The Dying Dandy",
+          "creator": "Nils von Dardel",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Head of a Catalan Peasant",
+          "creator": "Joan Miró",
+          "medium": "Oil"
+        },
+        {
+          "title": "Why Not Sneeze, Rose Sélavy?",
+          "creator": "Marcel Duchamp"
+        },
+        {
+          "title": "The Child's Brain",
+          "creator": "Giorgio de Chirico",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Marzella",
+          "creator": "Ernst Ludwig Kirchner",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Czartoryski Museum",
@@ -877,7 +2141,31 @@
       "longitude": 19.939967,
       "domain": "mnk.pl",
       "websiteURL": "https://mnk.pl/oddzial/muzeum-ksiazat-czartoryskich",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lady with an Ermine",
+          "creator": "Leonardo da Vinci",
+          "medium": "Tempera and oil on panel"
+        },
+        {
+          "title": "Portrait of a Young Man",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Landscape with the Good Samaritan",
+          "creator": "Rembrandt",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Poland – The Year 1863",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lauryshava Gospel"
+        }
+      ]
     },
     {
       "name": "Fitzwilliam Museum",
@@ -889,7 +2177,46 @@
       "longitude": 0.119444,
       "domain": "fitzmuseum.cam.ac.uk",
       "websiteURL": "http://www.fitzmuseum.cam.ac.uk/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Ancient of Days",
+          "creator": "William Blake",
+          "medium": "Ink on paper"
+        },
+        {
+          "title": "Tarquin and Lucretia",
+          "creator": "Titian",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Hours of Isabella Stuart",
+          "creator": "Rohan Master"
+        },
+        {
+          "title": "Self-portrait with the Colosseum",
+          "creator": "Maarten van Heemskerck",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Rothschild Bronzes",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Joan of Arc",
+          "creator": "Dante Gabriel Rossetti",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Bridesmaid",
+          "creator": "John Everett Millais",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Hours of Philip the Bold",
+          "creator": "Master of the Boqueteaux",
+          "medium": "Parchment"
+        }
+      ]
     },
     {
       "name": "National Gallery of Australia",
@@ -913,7 +2240,48 @@
       "longitude": 9.675609,
       "domain": "lacarrara.it",
       "websiteURL": "http://lacarrara.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Saint Sebastian",
+          "creator": "Raphael",
+          "medium": "Tempera and oil on panel"
+        },
+        {
+          "title": "Alzano Madonna",
+          "creator": "Giovanni Bellini",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Story of Virginia",
+          "creator": "Sandro Botticelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Portrait of Lucina Brembati",
+          "creator": "Lorenzo Lotto",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Portrait of Lionel d'Este",
+          "creator": "Pisanello",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Mystical Marriage of St Catherine of Alexandria with Niccoló Bonghi",
+          "creator": "Lorenzo Lotto",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lochis Madonna",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Pietà with Madonna and St. John the Evangelist",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        }
+      ]
     },
     {
       "name": "San Agustin archeological park",
@@ -937,7 +2305,13 @@
       "longitude": 2.166848,
       "domain": "musees-nationaux-malmaison.fr",
       "websiteURL": "https://musees-nationaux-malmaison.fr/chateau-malmaison/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Napoleon Crossing the Alps",
+          "creator": "Jacques-Louis David",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Hungarian National Gallery",
@@ -949,7 +2323,48 @@
       "longitude": 19.039773,
       "domain": "mng.hu",
       "websiteURL": "http://www.mng.hu",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Wrestlers",
+          "creator": "Gustave Courbet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Balloon",
+          "creator": "Pál Szinyei Merse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Japanese Woman",
+          "creator": "Bertalan Székely",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Pilgrimage to the Cedars of Lebanon",
+          "creator": "Tivadar Csontváry Kosztka",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Women in the Prison",
+          "creator": "Ottó Baditz",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Pont-Neuf, Sunlight (Second Series)",
+          "creator": "Camille Pissarro",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Spring Evening",
+          "creator": "Arnold Böcklin",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Visitation",
+          "creator": "Master MS",
+          "medium": "Tempera"
+        }
+      ]
     },
     {
       "name": "Secession Building",
@@ -973,7 +2388,12 @@
       "longitude": 4.901389,
       "domain": "rembrandthuis.nl",
       "websiteURL": "https://www.rembrandthuis.nl/nl/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Three Crosses",
+          "creator": "Rembrandt"
+        }
+      ]
     },
     {
       "name": "Musée Jacquemart-André",
@@ -985,7 +2405,47 @@
       "longitude": 2.31051,
       "domain": "musee-jacquemart-andre.com",
       "websiteURL": "https://www.musee-jacquemart-andre.com",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ecce Homo",
+          "creator": "Andrea Mantegna",
+          "medium": "Tempera on canvas"
+        },
+        {
+          "title": "The Supper at Emmaus",
+          "creator": "Rembrandt",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Hours of Jean de Boucicaut",
+          "creator": "Master of Boucicaut"
+        },
+        {
+          "title": "Madonna and Child with saints Jerome and Louis",
+          "creator": "Andrea Mantegna",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Portrait de Mathilde de Canisy, marquise d'Antin",
+          "creator": "Jean-Marc Nattier",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Candelabra Angels",
+          "creator": "Donatello",
+          "medium": "Bronze"
+        },
+        {
+          "title": "The Model's First Sitting",
+          "creator": "Jean-Honoré Fragonard",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait du comte Antoine Français de Nantes",
+          "creator": "Jacques-Louis David",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Royal Academy of Fine Arts of San Fernando",
@@ -997,7 +2457,48 @@
       "longitude": -3.70071,
       "domain": "realacademiabellasartessanfernando.com",
       "websiteURL": "http://www.realacademiabellasartessanfernando.com/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Clothed Maja",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Burial of the Sardine",
+          "creator": "Francisco Goya",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Inquisition Tribunal",
+          "creator": "Francisco Goya",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Madhouse",
+          "creator": "Francisco Goya",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "La Tirana",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Manuel Godoy",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-portrait in the Studio",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A Procession of Flagellants",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Wallace Collection",
@@ -1009,7 +2510,48 @@
       "longitude": -0.153022,
       "domain": "wallacecollection.org",
       "websiteURL": "https://www.wallacecollection.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Swing",
+          "creator": "Jean-Honoré Fragonard",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Laughing Cavalier",
+          "creator": "Frans Hals",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Lady with a Fan",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A Dance to the Music of Time",
+          "creator": "Nicolas Poussin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madame de Pompadour",
+          "creator": "François Boucher",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La Naissance de Vénus",
+          "creator": "François Boucher",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A Woman Peeling Apples",
+          "creator": "Pieter de Hooch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Perseus and Andromeda",
+          "creator": "Titian",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Museum",
@@ -1021,7 +2563,31 @@
       "longitude": 77.219262,
       "domain": "nationalmuseumindia.gov.in",
       "websiteURL": "http://www.nationalmuseumindia.gov.in",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Dancing Girl",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Gupta art",
+          "medium": "Stone"
+        },
+        {
+          "title": "Bani Thani",
+          "creator": "Nihâl Chand"
+        },
+        {
+          "title": "Krishna and Radha in a Pavilion",
+          "medium": "Gouache on paper"
+        },
+        {
+          "title": "Ivory carved tusk depicting Buddha life stories",
+          "medium": "Ivory"
+        },
+        {
+          "title": "Ivory Carved Dashavtar"
+        }
+      ]
     },
     {
       "name": "Galleria Nazionale d'Arte Antica",
@@ -1033,7 +2599,48 @@
       "longitude": 12.489527,
       "domain": "barberinicorsini.org",
       "websiteURL": "http://www.barberinicorsini.org",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "La fornarina",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Judith Beheading Holofernes",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Narcissuss",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Maffeo Barberini, later Pope Urban VIII",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Francis in Meditation",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madonna and Child Enthroned",
+          "creator": "Filippo Lippi",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Annunciation with Two Kneeling Donors",
+          "creator": "Filippo Lippi",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Mystic Marriage of Saint Catherine with Saints",
+          "creator": "Lorenzo Lotto",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Cyprus Museum",
@@ -1045,7 +2652,15 @@
       "longitude": 33.355278,
       "domain": "mcw.gov.cy",
       "websiteURL": "http://www.mcw.gov.cy/da",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Idol of Pomos"
+        },
+        {
+          "title": "David Plates",
+          "medium": "Silver"
+        }
+      ]
     },
     {
       "name": "Tehran Museum of Contemporary Art",
@@ -1057,7 +2672,40 @@
       "longitude": 51.390556,
       "domain": "tmoca.com",
       "websiteURL": "http://www.tmoca.com/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Shahnameh of Shah Tahmasp"
+        },
+        {
+          "title": "Nude Sitting on a Divan",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Still Life with Head-Shaped Vase and Japanese Woodcut",
+          "creator": "Paul Gauguin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Gabrielle with Open Blouse",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Suicide (Purple jumping man)",
+          "creator": "Andy Warhol",
+          "medium": "Acrylic on canvas"
+        },
+        {
+          "title": "Brattata",
+          "creator": "Roy Lichtenstein",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Golden Age",
+          "creator": "André Derain"
+        }
+      ]
     },
     {
       "name": "Museum of Fine Arts of Lyon",
@@ -1069,7 +2717,47 @@
       "longitude": 4.833611,
       "domain": "mba-lyon.fr",
       "websiteURL": "https://www.mba-lyon.fr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Stoning of Saint Stephen",
+          "creator": "Rembrandt",
+          "medium": "Oil"
+        },
+        {
+          "title": "The Flight into Egypt",
+          "creator": "Nicolas Poussin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Danae",
+          "creator": "Jacopo Tintoretto",
+          "medium": "Oil"
+        },
+        {
+          "title": "Woman with a Parrot",
+          "creator": "Eugène Delacroix",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Kore of Lyons",
+          "medium": "Marble"
+        },
+        {
+          "title": "Le Café-concert aux ambassadeurs",
+          "creator": "Edgar Degas",
+          "medium": "Pastel"
+        },
+        {
+          "title": "Bathsheba at Her Bath",
+          "creator": "Paolo Veronese",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Adoration of the Magi",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "MuseumsQuartier",
@@ -1093,7 +2781,28 @@
       "longitude": 23.740408,
       "domain": "benaki.org",
       "websiteURL": "https://www.benaki.org/index.php?lang=en",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Adoration of the Kings",
+          "creator": "El Greco",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "St Luke painting the Virgin",
+          "creator": "El Greco",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Saint Anne with the Virgin",
+          "creator": "Angelos Akotantos",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Saint Mark",
+          "creator": "Emmanuel Tzanes",
+          "medium": "Tempera on panel"
+        }
+      ]
     },
     {
       "name": "MAK – Museum of Applied Arts",
@@ -1105,7 +2814,28 @@
       "longitude": 16.381369,
       "domain": "mak.at",
       "websiteURL": "https://mak.at/en",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Great Wave off Kanagawa",
+          "creator": "Katsushika Hokusai"
+        },
+        {
+          "title": "The Tree of Life",
+          "creator": "Gustav Klimt"
+        },
+        {
+          "title": "Umar Defeats a Dragon",
+          "creator": "Daswanth"
+        },
+        {
+          "title": "Plia Chair",
+          "creator": "Giancarlo Piretti"
+        },
+        {
+          "title": "Fulfillment",
+          "creator": "Gustav Klimt"
+        }
+      ]
     },
     {
       "name": "East Side Gallery",
@@ -1117,7 +2847,12 @@
       "longitude": 13.444722,
       "domain": "eastsidegallery-berlin.de",
       "websiteURL": "http://www.eastsidegallery-berlin.de",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "My God, Help Me to Survive This Deadly Love",
+          "creator": "Dmitri Vrubel"
+        }
+      ]
     },
     {
       "name": "Ca' Rezzonico",
@@ -1141,7 +2876,26 @@
       "longitude": 2.16679,
       "domain": "macba.cat",
       "websiteURL": "https://www.macba.cat/ca",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Not I"
+        },
+        {
+          "title": "Ton Fan Group"
+        },
+        {
+          "title": "Rinzen",
+          "creator": "Antoni Tàpies"
+        },
+        {
+          "title": "Line Describing a Cone",
+          "creator": "Anthony McCall"
+        },
+        {
+          "title": "Together we can stop AIDS",
+          "creator": "Keith Haring"
+        }
+      ]
     },
     {
       "name": "National Museum of Art, Architecture and Design",
@@ -1153,7 +2907,47 @@
       "longitude": 10.729235,
       "domain": "nasjonalmuseet.no",
       "websiteURL": "https://www.nasjonalmuseet.no",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Scream",
+          "creator": "Edvard Munch"
+        },
+        {
+          "title": "Bridal Procession on the Hardangerfjord",
+          "creator": "Hans Gude",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dance of Life",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Puberty",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Winter at the Sognefjord",
+          "creator": "Johan Christian Dahl",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "View from Stalheim",
+          "creator": "Johan Christian Dahl",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Ashes",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Night in Saint-Cloud",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Museum of Islamic Art",
@@ -1189,7 +2983,48 @@
       "longitude": 4.394349,
       "domain": "kmska.be",
       "websiteURL": "https://www.kmska.be",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Seven Sacraments",
+          "creator": "Rogier van der Weyden",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Cleopatra Testing Poisons on Condemned Prisoners",
+          "creator": "Alexandre Cabanel",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Melun Diptych",
+          "creator": "Jean Fouquet",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Seated Nude",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Barbara",
+          "creator": "Jan van Eyck",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Madonna at the Fountain",
+          "creator": "Jan van Eyck",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Christ with singing and music-making Angels",
+          "creator": "Hans Memling",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Jacopo Pesaro, Bishop of Paphos, being presented by Pope Alexander VI to Saint Peter",
+          "creator": "Titian",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Galleria Nazionale d'Arte Moderna e Contemporanea di Roma",
@@ -1201,7 +3036,38 @@
       "longitude": 12.47998,
       "domain": "gnamc.cultura.gov.it",
       "websiteURL": "https://gnamc.cultura.gov.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Three Ages of Woman",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Young Peasant",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Giuseppe Verdi",
+          "creator": "Giovanni Boldini",
+          "medium": "Pastel on cardboard"
+        },
+        {
+          "title": "Hercules and Lychas",
+          "creator": "Antonio Canova",
+          "medium": "Marble"
+        },
+        {
+          "title": "Antigrazioso",
+          "creator": "Umberto Boccioni",
+          "medium": "Gypsum"
+        },
+        {
+          "title": "Composition A: Composition with Black, Red, Gray, Yellow, and Blue",
+          "creator": "Piet Mondrian",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Parliament House",
@@ -1225,7 +3091,32 @@
       "longitude": 13.367778,
       "domain": "smb.museum",
       "websiteURL": "https://www.smb.museum/en/museums-institutions/neue-nationalgalerie/home/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Portrait of Erna Schilling",
+          "creator": "Ernst Ludwig Kirchner",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Skat Players",
+          "creator": "Otto Dix",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Potsdamer Platz",
+          "creator": "Ernst Ludwig Kirchner",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Architecture",
+          "medium": "Oil"
+        },
+        {
+          "title": "Bridge over the Rhine in Cologne",
+          "creator": "Ernst Ludwig Kirchner",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Kiasma",
@@ -1261,7 +3152,48 @@
       "longitude": -9.16072,
       "domain": "museudearteantiga.pt",
       "websiteURL": "http://www.museudearteantiga.pt/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Temptation of Saint Anthony",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil"
+        },
+        {
+          "title": "Saint Jerome in His Study",
+          "creator": "Albrecht Dürer",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Saint Vincent Panels",
+          "creator": "Nuno Gonçalves",
+          "medium": "Oil"
+        },
+        {
+          "title": "Deposition",
+          "creator": "Giovanni Battista Tiepolo",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Salome with the head of Saint John the Baptist",
+          "creator": "Lucas Cranach the Elder",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Custódia de Belém",
+          "creator": "Gil Vicente",
+          "medium": "Gold"
+        },
+        {
+          "title": "Saint Paul",
+          "creator": "Nuno Gonçalves",
+          "medium": "Oil"
+        },
+        {
+          "title": "Adoration of the Shepherds",
+          "creator": "Josefa de Óbidos",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Ghibli Museum",
@@ -1285,7 +3217,47 @@
       "longitude": 12.481145,
       "domain": "doriapamphilj.it",
       "websiteURL": "https://www.doriapamphilj.it/roma/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Portrait of Innocent X",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Rest on the Flight into Egypt",
+          "creator": "Caravaggio",
+          "medium": "Oil"
+        },
+        {
+          "title": "Penitent Magdalene",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Salome with the Head of John the Baptist",
+          "creator": "Titian",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Naval Battle in the Gulf of Naples",
+          "creator": "Pieter Brueghel the Elder",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Flight into Egypt",
+          "creator": "Annibale Carracci",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Andrea Navagero and Agostino Beazzano",
+          "creator": "Raphael",
+          "medium": "Oil"
+        },
+        {
+          "title": "Busts of Pope Innocent X",
+          "creator": "Gian Lorenzo Bernini"
+        }
+      ]
     },
     {
       "name": "Salar Jung Museum",
@@ -1297,7 +3269,20 @@
       "longitude": 78.480347,
       "domain": "salarjungmuseum.in",
       "websiteURL": "https://salarjungmuseum.in",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Veiled Rebecca",
+          "creator": "Giovanni Maria Benzoni"
+        },
+        {
+          "title": "Mephistopheles and Margaretta"
+        },
+        {
+          "title": "Byblis",
+          "creator": "William-Adolphe Bouguereau",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Belarusian National Arts Museum",
@@ -1309,7 +3294,31 @@
       "longitude": 27.560556,
       "domain": "artmuseum.by",
       "websiteURL": "https://artmuseum.by",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Unequal Marriage",
+          "creator": "Vassili Vladimirovich Pukiryov",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Alexander the Great trust to physician Phillip",
+          "creator": "Henryk Siemiradzki",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Šarašowskaje Evangelle"
+        },
+        {
+          "title": "Night at the Rodos island",
+          "creator": "Ivan Aivazovsky",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Partisan Madonna of Minsk",
+          "creator": "Mikhail Savicki",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Leopold Museum",
@@ -1321,7 +3330,47 @@
       "longitude": 16.359142,
       "domain": "leopoldmuseum.org",
       "websiteURL": "https://www.leopoldmuseum.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Danaë",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Wally",
+          "creator": "Egon Schiele",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Woman With a Fan",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Death and Life",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dead City III",
+          "creator": "Egon Schiele",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Hermits",
+          "creator": "Egon Schiele"
+        },
+        {
+          "title": "On Lake Attersee",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Litzlbergkeller",
+          "creator": "Gustav Klimt",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Hong Kong Museum of Art",
@@ -1345,7 +3394,38 @@
       "longitude": -0.151667,
       "domain": "wellingtoncollection.co.uk",
       "websiteURL": "https://www.wellingtoncollection.co.uk/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Waterseller of Seville",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Napoleon as Mars the Peacemaker",
+          "creator": "Antonio Canova",
+          "medium": "Marble"
+        },
+        {
+          "title": "The Doctor's Visit in a Rich Interior",
+          "creator": "Jan Steen",
+          "medium": "Oil"
+        },
+        {
+          "title": "Agony in the Garden",
+          "creator": "Antonio da Correggio",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Two Young Men Eating at a Humble Table",
+          "creator": "Diego Velázquez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Arthur Wellesley (1769–1852), 1st Duke of Wellington",
+          "creator": "Thomas Lawrence",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Galerie nationale du Jeu de Paume",
@@ -1381,7 +3461,13 @@
       "longitude": -104.989345,
       "domain": "denverartmuseum.org",
       "websiteURL": "https://denverartmuseum.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Polyptych of the Duomo of Camerino",
+          "creator": "Carlo Crivelli",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Tel Aviv Museum of Art",
@@ -1393,7 +3479,18 @@
       "longitude": 34.786667,
       "domain": "tamuseum.org.il",
       "websiteURL": "https://www.tamuseum.org.il",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Jews Praying in the Synagogue on Yom Kippur",
+          "creator": "Maurycy Gottlieb",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Shepherdess, The (after Millet)",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Luxembourg Museum",
@@ -1453,7 +3550,48 @@
       "longitude": 3.724244,
       "domain": "mskgent.be",
       "websiteURL": "https://www.mskgent.be/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Christ Carrying the Cross",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Portrait of a Kleptomaniac",
+          "creator": "Théodore Géricault",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Jerome",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Stigmatisation of Francis of Assisi",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Marguerite van Mons",
+          "creator": "Théo van Rysselberghe",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Mary Magdalene",
+          "creator": "Alfred Stevens",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A reading by Emile Verhaeren",
+          "creator": "Théo van Rysselberghe",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Archaeological Museum, Bulgaria",
@@ -1465,7 +3603,11 @@
       "longitude": 23.324564,
       "domain": "naim.bg",
       "websiteURL": "http://www.naim.bg/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Nikolaevo Treasure"
+        }
+      ]
     },
     {
       "name": "National Museum of Beirut",
@@ -1477,7 +3619,12 @@
       "longitude": 35.5149,
       "domain": "web.archive.org",
       "websiteURL": "https://web.archive.org/web/20191017200458/http://www.beirutnationalmuseum.com/index.htm",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ahiram sarcophage",
+          "medium": "Limestone"
+        }
+      ]
     },
     {
       "name": "Megara Hyblaea",
@@ -1501,7 +3648,46 @@
       "longitude": 6.958611,
       "domain": "wallraf.museum",
       "websiteURL": "http://wallraf.museum",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Magdalene with the Smoking Flame",
+          "creator": "Georges de La Tour",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Three Crosses",
+          "creator": "Rembrandt"
+        },
+        {
+          "title": "Marriage of Sisley",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madonna of the Rose Bower",
+          "creator": "Stefan Lochner",
+          "medium": "Tempera and oil"
+        },
+        {
+          "title": "Juno and Argus",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-portrait as Zeuxis Laughing",
+          "creator": "Rembrandt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Adoration of the Child",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Jabach Altarpiece",
+          "creator": "Albrecht Dürer",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Art Gallery of New South Wales",
@@ -1525,7 +3711,48 @@
       "longitude": 138.603889,
       "domain": "agsa.sa.gov.au",
       "websiteURL": "https://www.agsa.sa.gov.au/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Circe Invidiosa",
+          "creator": "John William Waterhouse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Favourites of the Emperor Honorius",
+          "creator": "John William Waterhouse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A holiday at Mentone",
+          "creator": "Charles Conder",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Nemesis",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "A break away!",
+          "creator": "Tom Roberts",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "View of Bracciano",
+          "creator": "Paul Bril",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Winter morning after rain, Gardiner's Creek",
+          "creator": "Tom Roberts",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Kenwood House",
@@ -1537,7 +3764,28 @@
       "longitude": -0.1675,
       "domain": "english-heritage.org.uk",
       "websiteURL": "http://www.english-heritage.org.uk/visit/places/kenwood/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Guitar Player",
+          "creator": "Johannes Vermeer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self Portrait with Two Circles",
+          "creator": "Rembrandt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Two Girls Dressing a Kitten by Candlelight",
+          "creator": "Joseph Wright of Derby",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Mary, Countess Howe",
+          "creator": "Thomas Gainsborough",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Condé Museum",
@@ -1549,7 +3797,48 @@
       "longitude": 2.485278,
       "domain": "musee-conde.fr",
       "websiteURL": "http://musee-conde.fr/fr/accueil",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Très Riches Heures du duc de Berry",
+          "creator": "Jean Colombe",
+          "medium": "Tempera on vellum"
+        },
+        {
+          "title": "Melencolia I",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Three Graces",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Vénus Anadyomène",
+          "creator": "Jean-Auguste-Dominique Ingres",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Simonetta Vespucci",
+          "creator": "Piero di Cosimo",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Madonna of Loreto",
+          "creator": "Raphael",
+          "medium": "Oil"
+        },
+        {
+          "title": "The Duel After the Masquerade",
+          "creator": "Jean-Léon Gérôme",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Massacre of the Innocents",
+          "creator": "Nicolas Poussin",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Oscar Niemeyer International Cultural Centre",
@@ -1597,7 +3886,27 @@
       "longitude": -3.177128,
       "domain": "museum.wales",
       "websiteURL": "https://museum.wales/cardiff/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Duria Antiquior",
+          "creator": "Henry De la Beche"
+        },
+        {
+          "title": "Queen Eleanor",
+          "creator": "Frederick Sandys",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Welsh at Mametz Wood",
+          "creator": "Christopher Williams",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Empty Mask",
+          "creator": "René Magritte",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Musée Fabre",
@@ -1609,7 +3918,48 @@
       "longitude": 3.880192,
       "domain": "museefabre.fr",
       "websiteURL": "https://www.museefabre.fr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Meeting, or Bonjour, Monsieur Courbet!",
+          "creator": "Gustave Courbet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Fallen angel",
+          "creator": "Alexandre Cabanel",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "View of the Village",
+          "creator": "Frédéric Bazille",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Bathers",
+          "creator": "Gustave Courbet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Frédéric Bazille Painting",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Phaedra",
+          "creator": "Alexandre Cabanel",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Agatha",
+          "creator": "Francisco de Zurbarán",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La Toilette",
+          "creator": "Frédéric Bazille",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Odesa Fine Arts Museum",
@@ -1621,7 +3971,12 @@
       "longitude": 30.7288,
       "domain": "ofam.org.ua",
       "websiteURL": "http://www.ofam.org.ua",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Harvest",
+          "creator": "Zinaida Serebryakova"
+        }
+      ]
     },
     {
       "name": "Petrie Museum of Egyptian Archaeology",
@@ -1633,7 +3988,15 @@
       "longitude": -0.133056,
       "domain": "ucl.ac.uk",
       "websiteURL": "https://www.ucl.ac.uk/culture/petrie-museum",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Tarkhan dress",
+          "medium": "Pleated linen"
+        },
+        {
+          "title": "Coregency Stela"
+        }
+      ]
     },
     {
       "name": "Archaeological Museum of Thessaloniki",
@@ -1645,7 +4008,16 @@
       "longitude": 22.953889,
       "domain": "amth.gr",
       "websiteURL": "http://www.amth.gr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Derveni papyrus",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Derveni krater",
+          "medium": "Bronze"
+        }
+      ]
     },
     {
       "name": "Herzog Anton Ulrich Museum",
@@ -1657,7 +4029,47 @@
       "longitude": 10.533,
       "domain": "3landesmuseen-braunschweig.de",
       "websiteURL": "https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Girl with the Wine Glass",
+          "creator": "Johannes Vermeer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Knight, Death, and the Devil",
+          "creator": "Albrecht Dürer",
+          "medium": "Engraving"
+        },
+        {
+          "title": "Self-portrait",
+          "creator": "Giorgione",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of a family",
+          "creator": "Rembrandt",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dying Cleopatra",
+          "creator": "Rosso Fiorentino",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Judith with the Head of Holofernes",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Penance of St. John Chrysostom",
+          "creator": "Albrecht Dürer"
+        },
+        {
+          "title": "Stormy Landscape",
+          "creator": "Rembrandt",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "Museum of Contemporary Art Australia",
@@ -1681,7 +4093,46 @@
       "longitude": -76.616499,
       "domain": "thewalters.org",
       "websiteURL": "https://thewalters.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Archimedes Palimpsest",
+          "medium": "Parchment"
+        },
+        {
+          "title": "The Death of Caesar",
+          "creator": "Jean-Léon Gérôme",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Springtime",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Gatchina Palace",
+          "creator": "Michael Perkhin"
+        },
+        {
+          "title": "Rose Trellis",
+          "creator": "Henrik Wigström",
+          "medium": "Watercolor"
+        },
+        {
+          "title": "Sappho and Alcaeus",
+          "creator": "Lawrence Alma-Tadema",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Madonna of the Candelabra",
+          "creator": "Raphael",
+          "medium": "Oil"
+        },
+        {
+          "title": "The Potato Harvest",
+          "creator": "Jean-François Millet",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Dulwich Picture Gallery",
@@ -1693,7 +4144,48 @@
       "longitude": -0.086389,
       "domain": "dulwichpicturegallery.org.uk",
       "websiteURL": "https://www.dulwichpicturegallery.org.uk/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Portrait of Jacob de Gheyn III",
+          "creator": "Rembrandt",
+          "medium": "Oil"
+        },
+        {
+          "title": "The Flower Girl",
+          "creator": "Bartolomé Esteban Murillo",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "A View of Walton Bridge",
+          "creator": "Canaletto",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Elizabeth and Mary Linley",
+          "creator": "Thomas Gainsborough",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Samson and Delilah",
+          "creator": "Anthony van Dyck",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Mrs Elizabeth Moody with her sons Samuel and Thoma",
+          "creator": "Thomas Gainsborough",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Sebastian",
+          "creator": "Guido Reni",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Philippe Jacques de Loutherbourg",
+          "creator": "Thomas Gainsborough",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Hall of Arts",
@@ -1717,7 +4209,42 @@
       "longitude": -77.0275,
       "domain": "asia.si.edu",
       "websiteURL": "https://asia.si.edu/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Codex Washingtonianus",
+          "medium": "Vellum"
+        },
+        {
+          "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+          "creator": "Utagawa Hiroshige",
+          "medium": "Ink on paper"
+        },
+        {
+          "title": "The Princess from the Land of Porcelain",
+          "creator": "James McNeill Whistler",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Peacock Room",
+          "creator": "Thomas Jeckyll"
+        },
+        {
+          "title": "Great Mongol Shahnameh"
+        },
+        {
+          "title": "Emperor Jahangir Embraces Shah Abbas",
+          "creator": "Abu al-Hasan",
+          "medium": "Ink and watercolor on paper"
+        },
+        {
+          "title": "Golshan Album"
+        },
+        {
+          "title": "Jahangir Preferring a Sufi Shaikh to Kings",
+          "creator": "Bichitr",
+          "medium": "Ink and watercolor on paper"
+        }
+      ]
     },
     {
       "name": "The Cloisters",
@@ -1729,7 +4256,11 @@
       "longitude": -73.931727,
       "domain": "metmuseum.org",
       "websiteURL": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Hunt of the Unicorn"
+        }
+      ]
     },
     {
       "name": "Museo Poldi Pezzoli",
@@ -1741,7 +4272,48 @@
       "longitude": 9.191583,
       "domain": "museopoldipezzoli.it",
       "websiteURL": "http://www.museopoldipezzoli.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Madonna of the Book",
+          "creator": "Sandro Botticelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Lamentation over the Dead Christ with Saints",
+          "creator": "Sandro Botticelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Portrait of a Girl",
+          "creator": "Piero del Pollaiuolo",
+          "medium": "Tempera and oil on panel"
+        },
+        {
+          "title": "Virgin and Child",
+          "creator": "Andrea Mantegna",
+          "medium": "Tempera"
+        },
+        {
+          "title": "Pietà",
+          "creator": "Filippo Lippi",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Blood of Christ",
+          "creator": "Carlo Crivelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Theseus Killing the Minotaur",
+          "creator": "Giovanni Battista Cima da Conegliano",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Pra' della Valle in Padua",
+          "creator": "Canaletto",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "The National Museum of Modern Art, Tokyo",
@@ -1753,7 +4325,13 @@
       "longitude": 139.754642,
       "domain": "momat.go.jp",
       "websiteURL": "https://www.momat.go.jp/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Liberty Inviting Artists to Take Part in the 22nd Exhibition of the Societe des Artistes Independants",
+          "creator": "Henri Rousseau",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "İstanbul Modern",
@@ -1777,7 +4355,13 @@
       "longitude": -6.3,
       "domain": "imma.ie",
       "websiteURL": "http://www.imma.ie",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Four Element Composition",
+          "creator": "Mainie Harriet Jellett",
+          "medium": "Gouache"
+        }
+      ]
     },
     {
       "name": "Hirshhorn Museum and Sculpture Garden",
@@ -1789,7 +4373,27 @@
       "longitude": -77.022968,
       "domain": "hirshhorn.si.edu",
       "websiteURL": "http://hirshhorn.si.edu/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Monument to Balzac",
+          "creator": "Auguste Rodin",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Kiepenkerl",
+          "creator": "Jeff Koons",
+          "medium": "Stainless steel"
+        },
+        {
+          "title": "Hotel by a Railroad",
+          "creator": "Edward Hopper"
+        },
+        {
+          "title": "Working Model for Three Piece No. 3: Vertebrae",
+          "creator": "Henry Moore",
+          "medium": "Bronze"
+        }
+      ]
     },
     {
       "name": "Palazzo Ducale Mantua",
@@ -1801,7 +4405,27 @@
       "longitude": 10.798799,
       "domain": "mantovaducale.beniculturali.it",
       "websiteURL": "http://www.mantovaducale.beniculturali.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Camera degli Sposi",
+          "creator": "Andrea Mantegna",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Triumphs of Caesar",
+          "creator": "Andrea Mantegna"
+        },
+        {
+          "title": "The Gonzaga Family in Adoration of the Holy Trinity",
+          "creator": "Peter Paul Rubens",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Battle between the Gonzaga and the Bonacolsi",
+          "creator": "Domenico Morone",
+          "medium": "Oil on panel"
+        }
+      ]
     },
     {
       "name": "National Museum of Fine Arts, Argentina",
@@ -1813,7 +4437,48 @@
       "longitude": -58.39297,
       "domain": "bellasartes.gob.ar",
       "websiteURL": "https://www.bellasartes.gob.ar/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The First Mourning",
+          "creator": "William-Adolphe Bouguereau",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La Nymphe surprise",
+          "creator": "Édouard Manet",
+          "medium": "Oil"
+        },
+        {
+          "title": "Portrait of Suzanne Valadon",
+          "creator": "Henri de Toulouse-Lautrec",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Satan's messenger",
+          "creator": "Nasreddine Dinet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "La vuelta del malón",
+          "creator": "Ángel della Valle",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "No bread, no work",
+          "creator": "Ernesto de la Cárcova",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Juliette Courbet at the Age of Ten",
+          "creator": "Gustave Courbet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Agony in the Garden",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Gallery of Slovenia",
@@ -1825,7 +4490,13 @@
       "longitude": 14.50025,
       "domain": "ng-slo.si",
       "websiteURL": "http://www.ng-slo.si/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Sower",
+          "creator": "Ivan Grohar",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Museum of Pakistan",
@@ -1849,7 +4520,47 @@
       "longitude": -94.58096,
       "domain": "nelson-atkins.org",
       "websiteURL": "https://www.nelson-atkins.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Lute Player series",
+          "creator": "Caravaggio",
+          "medium": "Oil"
+        },
+        {
+          "title": "Boulevard des Capucines",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Four Witches",
+          "creator": "Albrecht Dürer",
+          "medium": "Print"
+        },
+        {
+          "title": "Portrait of Paul Lemoyne",
+          "creator": "Jean-Auguste-Dominique Ingres",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint John the Baptist in the Wilderness",
+          "creator": "Caravaggio",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Temptation of Saint Anthony",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "White Lilacs in a Glass Vase",
+          "creator": "Édouard Manet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Mrs. Cecil Wade",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Gothenburg Museum of Art",
@@ -1861,7 +4572,47 @@
       "longitude": 11.980556,
       "domain": "goteborgskonstmuseum.se",
       "websiteURL": "http://goteborgskonstmuseum.se/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Sick Child",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Hip, Hip, Hurrah!",
+          "creator": "Peder Severin Krøyer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Boys drawing",
+          "creator": "Sofie Ribbing",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Venny Soldan-Brofeldt, Artist",
+          "creator": "Hanna Hirsch-Pauli",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Famille d'acrobates avec singe",
+          "creator": "Pablo Picasso"
+        },
+        {
+          "title": "Nordic summer's evening",
+          "creator": "Richard Bergh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Interior of the Fürstenberg Gallery",
+          "creator": "Carl Larsson",
+          "medium": "Gouache and watercolor on paper"
+        },
+        {
+          "title": "Man with a Falcon (possibly St. Bavo)",
+          "creator": "Rembrandt",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Brancacci Chapel",
@@ -1873,7 +4624,13 @@
       "longitude": 11.243703,
       "domain": "museicivicifiorentini.comune.fi.it",
       "websiteURL": "http://museicivicifiorentini.comune.fi.it/en/brancacci/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Disputation with Simon Magus and the Crucifixion of Peter",
+          "creator": "Filippino Lippi",
+          "medium": "Fresco"
+        }
+      ]
     },
     {
       "name": "Art Museum of Georgia",
@@ -1885,7 +4642,11 @@
       "longitude": 44.800722,
       "domain": "museum.ge",
       "websiteURL": "http://museum.ge/?lang_id=ENGGEO&sec_id=45",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Khakhuli triptych"
+        }
+      ]
     },
     {
       "name": "Palazzo Rosso",
@@ -1909,7 +4670,25 @@
       "longitude": 35.235833,
       "domain": "imj.org.il",
       "websiteURL": "https://www.imj.org.il/he/wings/archaeology/מוזיאון-רוקפלר-לארכאולוגיה",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "4Q120",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "4QMMT"
+        },
+        {
+          "title": "Greek Minor Prophets Scroll from Nahal Hever",
+          "medium": "Leather"
+        },
+        {
+          "title": "4Q119"
+        },
+        {
+          "title": "4Q122"
+        }
+      ]
     },
     {
       "name": "National Historical Museum of Ukraine",
@@ -1921,7 +4700,11 @@
       "longitude": 30.516111,
       "domain": "nmiu.org",
       "websiteURL": "https://nmiu.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Sword of blacksmith Ludota"
+        }
+      ]
     },
     {
       "name": "Tomb of Caecilia Metella",
@@ -2005,7 +4788,27 @@
       "longitude": -87.897058,
       "domain": "mam.org",
       "websiteURL": "http://mam.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Two Majesties",
+          "creator": "Jean-Léon Gérôme",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Boating on the Yerres",
+          "creator": "Gustave Caillebotte",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The devoted child",
+          "creator": "Antonio Rotta",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Flag",
+          "medium": "Watercolor"
+        }
+      ]
     },
     {
       "name": "Accademia di San Luca",
@@ -2017,7 +4820,18 @@
       "longitude": 12.483586,
       "domain": "accademiasanluca.it",
       "websiteURL": "https://accademiasanluca.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Victorious Athlete",
+          "creator": "Francesco Hayez",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-portrait at the Virginal with a Servant",
+          "creator": "Lavinia Fontana",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Baltimore Museum of Art",
@@ -2029,7 +4843,47 @@
       "longitude": -76.619503,
       "domain": "artbma.org",
       "websiteURL": "https://artbma.org",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Blue Nude",
+          "creator": "Henri Matisse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "On the Shore of the Seine",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil"
+        },
+        {
+          "title": "Mountains Mont Sainte-Victoire Seen from the Bibémus Quarry",
+          "creator": "Paul Cézanne",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Emilia Pia da Montefeltro",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Player Schneklud",
+          "creator": "Paul Gauguin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Woman of the Mango",
+          "creator": "Paul Gauguin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Madonna Adoring the Child with Five Angels",
+          "creator": "Sandro Botticelli",
+          "medium": "Oil and tempera on panel"
+        },
+        {
+          "title": "Saint Michael Fighting the Dragon",
+          "creator": "Albrecht Dürer"
+        }
+      ]
     },
     {
       "name": "Hamburger Bahnhof",
@@ -2077,7 +4931,48 @@
       "longitude": 11.255817,
       "domain": "duomo.firenze.it",
       "websiteURL": "https://duomo.firenze.it/en/discover/opera-duomo-museum",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Deposition",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Gates of Paradise",
+          "creator": "Lorenzo Ghiberti",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Penitent Magdalene",
+          "creator": "Donatello",
+          "medium": "Wood"
+        },
+        {
+          "title": "Zuccone",
+          "creator": "Donatello",
+          "medium": "Marble"
+        },
+        {
+          "title": "Saint John the Evangelist",
+          "creator": "Donatello",
+          "medium": "Marble"
+        },
+        {
+          "title": "The Sacrifice of Isaac",
+          "creator": "Donatello",
+          "medium": "Marble"
+        },
+        {
+          "title": "Jeremiah",
+          "creator": "Donatello",
+          "medium": "Marble"
+        },
+        {
+          "title": "Pensive Prophet",
+          "creator": "Donatello",
+          "medium": "Marble"
+        }
+      ]
     },
     {
       "name": "Dadiani Palaces Museum",
@@ -2113,7 +5008,48 @@
       "longitude": 11.253117,
       "domain": "bargellomusei.it",
       "websiteURL": "https://bargellomusei.it/musei/cappelle-medicee/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Saint Luke",
+          "creator": "Giambologna",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Four Crowned Martyrs",
+          "creator": "Nanni di Banco",
+          "medium": "Marble"
+        },
+        {
+          "title": "Saint Matthew",
+          "creator": "Lorenzo Ghiberti",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Saint Stephen",
+          "creator": "Lorenzo Ghiberti",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Madonna of the Rose",
+          "creator": "Pietro di Giovanni Tedesco",
+          "medium": "Marble"
+        },
+        {
+          "title": "Saint Philip",
+          "creator": "Nanni di Banco",
+          "medium": "Marble"
+        },
+        {
+          "title": "Saint James the Elder",
+          "creator": "Niccolò di Piero Lamberti",
+          "medium": "Marble"
+        },
+        {
+          "title": "Saint Eligius",
+          "creator": "Nanni di Banco",
+          "medium": "Carrara marble"
+        }
+      ]
     },
     {
       "name": "Museo Correr",
@@ -2125,7 +5061,48 @@
       "longitude": 12.337128,
       "domain": "correr.visitmuve.it",
       "websiteURL": "http://correr.visitmuve.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Two Venetian Ladies",
+          "creator": "Vittore Carpaccio",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Crucifixion",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Transfiguration of Christ",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Frizzoni Madonna",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Dead Christ Supported by Two Angels",
+          "creator": "Giovanni Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Man with Red Hat",
+          "creator": "Vittore Carpaccio",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Portrait of Doge Giovanni Mocenigo",
+          "creator": "Gentile Bellini",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Pietà",
+          "creator": "Cosimo Tura",
+          "medium": "Tempera and oil on panel"
+        }
+      ]
     },
     {
       "name": "Walker Art Gallery",
@@ -2137,7 +5114,47 @@
       "longitude": -2.979666,
       "domain": "liverpoolmuseums.org.uk",
       "websiteURL": "https://www.liverpoolmuseums.org.uk/walker-art-gallery",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Echo and Narcissus",
+          "creator": "John William Waterhouse",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Isabella",
+          "creator": "John Everett Millais",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dante's Dream",
+          "creator": "Dante Gabriel Rossetti",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dante and Beatrice",
+          "creator": "Henry Holiday",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Perseus and Andromeda",
+          "creator": "Frederic Leighton",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Death of Nelson",
+          "creator": "Benjamin West",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Hunted Slaves",
+          "creator": "Richard Ansdell",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Nativity of the Virgin",
+          "creator": "Pietro Perugino"
+        }
+      ]
     },
     {
       "name": "Pera Museum",
@@ -2149,7 +5166,18 @@
       "longitude": 28.975194,
       "domain": "en.peramuzesi.org.tr",
       "websiteURL": "http://en.peramuzesi.org.tr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Tortoise Trainer",
+          "creator": "Osman Hamdi Bey",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Two Musician Girls",
+          "creator": "Osman Hamdi Bey",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Toledo Museum of Art",
@@ -2161,7 +5189,48 @@
       "longitude": -83.559444,
       "domain": "toledomuseum.org",
       "websiteURL": "https://www.toledomuseum.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Architect's Dream",
+          "creator": "Thomas Cole",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Blind Man's Bluff",
+          "creator": "Jean-Honoré Fragonard",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Houses at Auvers",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lot and his Daughters",
+          "creator": "Artemisia Gentileschi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Children with a Cart",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Venice, Grand Canal",
+          "creator": "Paul Signac",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Agony in the Garden",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Aqueduct at Marly",
+          "creator": "Alfred Sisley",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Norton Simon Museum",
@@ -2173,7 +5242,48 @@
       "longitude": -118.159162,
       "domain": "nortonsimon.org",
       "websiteURL": "https://www.nortonsimon.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Madonna and Child with the Book",
+          "creator": "Raphael",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Portrait of the Artist's Mother",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Still Life with Lemons, Oranges and a Rose",
+          "creator": "Francisco de Zurbarán",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Waiting",
+          "creator": "Edgar Degas",
+          "medium": "Pastel on paper"
+        },
+        {
+          "title": "Wine is a Mocker",
+          "creator": "Jan Steen",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Monument to Balzac",
+          "creator": "Auguste Rodin",
+          "medium": "Bronze"
+        },
+        {
+          "title": "The Repentant Magdalene",
+          "creator": "Guido Cagnacci",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Mulberry Tree",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Birmingham Museum and Art Gallery",
@@ -2185,7 +5295,22 @@
       "longitude": -1.903611,
       "domain": "bmag.org.uk",
       "websiteURL": "http://www.bmag.org.uk",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Sultanganj Buddha",
+          "medium": "Bronze"
+        },
+        {
+          "title": "Medea",
+          "creator": "Frederick Sandys",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Pygmalion and the Image series",
+          "creator": "Edward Burne-Jones",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Sergei Parajanov Museum",
@@ -2245,7 +5370,37 @@
       "longitude": -2.93785,
       "domain": "museobilbao.com",
       "websiteURL": "http://www.museobilbao.com/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lot and His Daughters",
+          "creator": "Orazio Gentileschi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Kissing the Relic",
+          "creator": "Joaquín Sorolla"
+        },
+        {
+          "title": "Venus of Poetry",
+          "creator": "Julio Romero de Torres",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of the Poet Moratín",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Martín Zapater",
+          "creator": "Francisco Goya",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lucretia",
+          "creator": "Lucas Cranach the Elder",
+          "medium": "Oil"
+        }
+      ]
     },
     {
       "name": "Getty Villa",
@@ -2269,7 +5424,39 @@
       "longitude": 6.151574,
       "domain": "mahmah.ch",
       "websiteURL": "https://www.mahmah.ch/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Miraculous Draft of Fishes",
+          "creator": "Konrad Witz",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Naked Women playing Checkers",
+          "medium": "Oil on cardboard"
+        },
+        {
+          "title": "Le Bain turc",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Hate",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Orpheus dismembered",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Friends' portrait",
+          "creator": "Louise Catherine Breslau",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Madame de Staël as Corinne on Cape Misenum",
+          "creator": "Élisabeth Louise Vigée Le Brun",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Berlinische Galerie",
@@ -2281,7 +5468,17 @@
       "longitude": 13.3981,
       "domain": "berlinische-galerie.de",
       "websiteURL": "http://www.berlinische-galerie.de/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Dada-Review",
+          "creator": "Hannah Höch",
+          "medium": "Gouache and watercolor"
+        },
+        {
+          "title": "Daum Marries Her Pedantic Automaton \"George\" in May 1920",
+          "creator": "George Grosz"
+        }
+      ]
     },
     {
       "name": "Dallas Museum of Art",
@@ -2293,7 +5490,48 @@
       "longitude": -96.800893,
       "domain": "dma.org",
       "websiteURL": "https://dma.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Icebergs",
+          "creator": "Frederic Edwin Church",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Apollo and Diana Attacking the Children of Niobe",
+          "creator": "Jacques-Louis David",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Fountain of Vaucluse",
+          "creator": "Thomas Cole",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Fox in the Snow",
+          "creator": "Gustave Courbet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Le Pont Neuf",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Abduction of Europa",
+          "creator": "Jean-Baptiste Marie Pierre",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Bonneville, Savoy",
+          "creator": "J. M. W. Turner",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Tea Service",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Chilean National Museum of Fine Arts",
@@ -2317,7 +5555,11 @@
       "longitude": 116.40275,
       "domain": "namoc.org",
       "websiteURL": "http://www.namoc.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Ton Fan Group"
+        }
+      ]
     },
     {
       "name": "Museum of Far Eastern Antiquities",
@@ -2365,7 +5607,32 @@
       "longitude": 26.09598,
       "domain": "mnar.ro",
       "websiteURL": "https://mnar.ro",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Marriage of the Virgin",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Adoration of the Shepherds",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Girls Spinning at the Gate",
+          "creator": "Nicolae Grigorescu",
+          "medium": "Oil"
+        },
+        {
+          "title": "Portrait of Lady Roxanda",
+          "creator": "Dobromir"
+        },
+        {
+          "title": "The Sunflower",
+          "creator": "Ion Țuculescu",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Musée des Arts Décoratifs",
@@ -2389,7 +5656,35 @@
       "longitude": 17.0475,
       "domain": "mnwr.pl",
       "websiteURL": "https://mnwr.pl/en/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Środa Treasure"
+        },
+        {
+          "title": "Holy Trinity of Wrocław",
+          "medium": "Tempera"
+        },
+        {
+          "title": "1 April 1656 Oath by John II Casimir Vasa (historical subject)",
+          "creator": "Jan Matejko",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of a priest",
+          "creator": "Helmich van Tweenhuysen II",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Entry of Jerzy Ossoliński into Rome in 1633",
+          "creator": "Bernardo Bellotto",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Christ at the Column",
+          "creator": "Francisco de Zurbarán",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Yale University Art Gallery",
@@ -2401,7 +5696,47 @@
       "longitude": -72.930958,
       "domain": "artgallery.yale.edu",
       "websiteURL": "https://artgallery.yale.edu/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Night Café",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "An Allegory of Intemperance",
+          "creator": "Hieronymus Bosch",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "The Knife Grinder",
+          "creator": "Kazimir Malevich",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "1472 Polyptych",
+          "creator": "Carlo Crivelli",
+          "medium": "Tempera on panel"
+        },
+        {
+          "title": "Hercules and Deianira",
+          "creator": "Antonio del Pollaiuolo",
+          "medium": "Oil on panel"
+        },
+        {
+          "title": "Hail Caesar! We Who Are about to Die Salute You",
+          "creator": "Jean-Léon Gérôme",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Harbor of La Rochelle",
+          "creator": "Jean-Baptiste Camille Corot",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Am I Not a Man and a Brother?",
+          "creator": "Josiah Wedgwood"
+        }
+      ]
     },
     {
       "name": "Sorolla Museum",
@@ -2413,7 +5748,48 @@
       "longitude": -3.692539,
       "domain": "cultura.gob.es",
       "websiteURL": "https://www.cultura.gob.es/msorolla/inicio.html",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Walk on the mountain",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Clotilde seated on the Sofa",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Joaquín Sorolla García dressed in white",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Forest. La Granja",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Clotilde García del Castillo",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Autorretrato Joaquín Sorolla (1904)",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Clotilde in evening dress",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Contadina de Asís",
+          "creator": "Joaquín Sorolla",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "National Museum of Cambodia",
@@ -2437,7 +5813,23 @@
       "longitude": -75.163217,
       "domain": "pafa.org",
       "websiteURL": "http://pafa.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Artist in His Museum",
+          "creator": "Charles Willson Peale",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Fox Hunt",
+          "creator": "Winslow Homer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "George Washington at Princeton",
+          "creator": "Charles Willson Peale",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Palazzo Colonna",
@@ -2449,7 +5841,23 @@
       "longitude": 12.484214,
       "domain": "galleriacolonna.it",
       "websiteURL": "http://www.galleriacolonna.it",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "The Bean Eater",
+          "creator": "Annibale Carracci",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Roverella Altarpiece",
+          "creator": "Cosimo Tura",
+          "medium": "Tempera and oil on panel"
+        },
+        {
+          "title": "Pala di San Pietro di Muralto",
+          "creator": "Carlo Crivelli",
+          "medium": "Tempera on panel"
+        }
+      ]
     },
     {
       "name": "Museo Nazionale Etrusco di Villa Giulia",
@@ -2461,7 +5869,33 @@
       "longitude": 12.476265,
       "domain": "museoetru.it",
       "websiteURL": "https://www.museoetru.it/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Pyrgi Tablets",
+          "medium": "Gold"
+        },
+        {
+          "title": "Apollo of Veii",
+          "creator": "Vulca",
+          "medium": "Terracotta"
+        },
+        {
+          "title": "Sarcophagus of the Spouses",
+          "medium": "Terracotta"
+        },
+        {
+          "title": "Chigi vase"
+        },
+        {
+          "title": "Euphronios krater",
+          "creator": "Euxitheos",
+          "medium": "Ceramic"
+        },
+        {
+          "title": "Ficoroni Cista",
+          "medium": "Bronze"
+        }
+      ]
     },
     {
       "name": "Tzistarakis Mosque",
@@ -2485,7 +5919,37 @@
       "longitude": 11.263593,
       "domain": "casabuonarroti.it",
       "websiteURL": "http://www.casabuonarroti.it",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Madonna of the Stair",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Battle of the Centaurs",
+          "creator": "Michelangelo",
+          "medium": "Marble"
+        },
+        {
+          "title": "Allegory of Inclination",
+          "creator": "Artemisia Gentileschi",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "River God torso",
+          "creator": "Michelangelo"
+        },
+        {
+          "title": "Two Wrestlers",
+          "creator": "Michelangelo",
+          "medium": "Terracotta"
+        },
+        {
+          "title": "Torso virile II",
+          "creator": "Michelangelo",
+          "medium": "Terracotta"
+        }
+      ]
     },
     {
       "name": "Moomin Museum",
@@ -2509,7 +5973,17 @@
       "longitude": 23.326786,
       "domain": "nationalgallery.bg",
       "websiteURL": "https://nationalgallery.bg/bg/visiting/the-palace/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Lucifer",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Erma River by the Town of Tran",
+          "creator": "Nikola Petrov",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Museum of Modern Art of Republika Srpska",
@@ -2533,7 +6007,47 @@
       "longitude": 10.737556,
       "domain": "nasjonalmuseet.no",
       "websiteURL": "https://nasjonalmuseet.no",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Bridal Procession on the Hardangerfjord",
+          "creator": "Hans Gude",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Puberty",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Ashes",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Night in Saint-Cloud",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Self-Portrait with Cigarette",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Kiss by the Window",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Winter Night in the Mountains",
+          "creator": "Harald Sohlberg"
+        },
+        {
+          "title": "Madame Manet in the Conservatory",
+          "creator": "Édouard Manet",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Heraklion Archaeological Museum",
@@ -2545,7 +6059,38 @@
       "longitude": 25.1375,
       "domain": "heraklionmuseum.gr",
       "websiteURL": "http://heraklionmuseum.gr/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Phaistos disc",
+          "medium": "Clay"
+        },
+        {
+          "title": "La Parisienne",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Prince of the Lilies",
+          "medium": "Fresco"
+        },
+        {
+          "title": "The bee pendant",
+          "medium": "Gold"
+        },
+        {
+          "title": "Bull-Leaping Fresco",
+          "medium": "Fresco"
+        },
+        {
+          "title": "Harvester vase",
+          "medium": "Soapstone"
+        },
+        {
+          "title": "Gaming board from Knossos"
+        },
+        {
+          "title": "Ladies in Blue"
+        }
+      ]
     },
     {
       "name": "National Museum of Slovenia",
@@ -2557,7 +6102,15 @@
       "longitude": 14.499444,
       "domain": "nms.si",
       "websiteURL": "https://www.nms.si/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Divje Babe flute",
+          "medium": "Bone"
+        },
+        {
+          "title": "Vače situla"
+        }
+      ]
     },
     {
       "name": "Naxos",
@@ -2581,7 +6134,45 @@
       "longitude": 8.813611,
       "domain": "kunsthalle-bremen.de",
       "websiteURL": "http://www.kunsthalle-bremen.de/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Camille",
+          "creator": "Claude Monet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Death and the Child",
+          "creator": "Edvard Munch",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Before and After",
+          "creator": "William Hogarth"
+        },
+        {
+          "title": "The Nap, Peasant Woman Lying in the Grass, Pontoise",
+          "creator": "Camille Pissarro",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Saint Anthony Tormented by Demons",
+          "creator": "Martin Schongauer"
+        },
+        {
+          "title": "Morning Awakening",
+          "creator": "Eva Gonzalès",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Portrait of Zacharie Astruc",
+          "creator": "Édouard Manet",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Women's Bath",
+          "creator": "Albrecht Dürer"
+        }
+      ]
     },
     {
       "name": "Teylers Museum",
@@ -2593,7 +6184,24 @@
       "longitude": 4.640278,
       "domain": "teylersmuseum.nl",
       "websiteURL": "http://www.teylersmuseum.nl",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Adam and Eve",
+          "creator": "Albrecht Dürer"
+        },
+        {
+          "title": "Top of the Mont Blanc"
+        },
+        {
+          "title": "Large electrostatic generator",
+          "creator": "Leendert Viervant the Younger"
+        },
+        {
+          "title": "View from Dekkersduin",
+          "creator": "Johan Hendrik Weissenbruch",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Brücke Museum",
@@ -2605,7 +6213,13 @@
       "longitude": 13.2736,
       "domain": "bruecke-museum.de",
       "websiteURL": "http://www.bruecke-museum.de/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Five Bathing Women at a Lake",
+          "creator": "Ernst Ludwig Kirchner",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Cappella Sansevero",
@@ -2629,7 +6243,11 @@
       "longitude": -77.0265,
       "domain": "asia.si.edu",
       "websiteURL": "http://www.asia.si.edu/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Great Mongol Shahnameh"
+        }
+      ]
     },
     {
       "name": "The Phillips Collection",
@@ -2641,7 +6259,42 @@
       "longitude": -77.046806,
       "domain": "phillipscollection.org",
       "websiteURL": "https://www.phillipscollection.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Luncheon of the Boating Party",
+          "creator": "Pierre-Auguste Renoir",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Miss Amelia Van Buren",
+          "creator": "Thomas Eakins",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Wheat Field at Auvers with House",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Blue Room",
+          "creator": "Pablo Picasso"
+        },
+        {
+          "title": "Portrait of Elena Pavlowski",
+          "creator": "Amedeo Modigliani",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The Repentant St. Peter",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Horses Coming Out of the Sea",
+          "creator": "Eugène Delacroix",
+          "medium": "Oil on canvas"
+        }
+      ]
     },
     {
       "name": "Centre Pompidou-Metz",
@@ -3073,6 +6726,724 @@
       "longitude": -77.022917,
       "domain": "npg.si.edu",
       "websiteURL": "https://npg.si.edu/",
+      "highlights": [
+        {
+          "title": "Athenaeum Portrait",
+          "creator": "Gilbert Stuart",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Lansdowne Portrait",
+          "creator": "Gilbert Stuart",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "First Lady Michelle Obama",
+          "creator": "Amy Sherald",
+          "medium": "Oil"
+        },
+        {
+          "title": "Phillis Wheatley",
+          "creator": "Scipio Moorhead"
+        },
+        {
+          "title": "Washington in the Uniform of a British Colonial Colonel",
+          "creator": "Charles Willson Peale",
+          "medium": "Oil on canvas"
+        }
+      ]
+    },
+    {
+      "name": "Tainan Art Museum Building 1",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 22.99107,
+      "longitude": 120.20503,
+      "domain": "tnam.museum",
+      "alternateName": "臺南市美術館 1館",
+      "websiteURL": "https://www.tnam.museum/",
+      "highlights": []
+    },
+    {
+      "name": "Tainan Art Museum Building 2",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 22.990375,
+      "longitude": 120.201355,
+      "domain": "tnam.museum",
+      "alternateName": "臺南市美術館 2館",
+      "websiteURL": "https://www.tnam.museum/",
+      "highlights": []
+    },
+    {
+      "name": "Chimei Museum",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 22.934592,
+      "longitude": 120.225897,
+      "domain": "chimeimuseum.org",
+      "alternateName": "奇美博物館",
+      "websiteURL": "https://www.chimeimuseum.org/",
+      "radius": 250,
+      "highlights": []
+    },
+    {
+      "name": "Museum of Contemporary Art Taipei",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 25.05056,
+      "longitude": 121.51861,
+      "domain": "moca.taipei",
+      "alternateName": "台北當代藝術館",
+      "websiteURL": "https://www.moca.taipei/",
+      "highlights": []
+    },
+    {
+      "name": "Museum of National Taipei University of Education",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 25.0253,
+      "longitude": 121.5409,
+      "domain": "montue.ntue.edu.tw",
+      "alternateName": "北師美術館",
+      "websiteURL": "https://montue.ntue.edu.tw/en/",
+      "radius": 250,
+      "highlights": []
+    },
+    {
+      "name": "Kuandu Museum of Fine Arts",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 25.13396,
+      "longitude": 121.46975,
+      "domain": "kdmofa.tnua.edu.tw",
+      "alternateName": "關渡美術館",
+      "websiteURL": "https://kdmofa.tnua.edu.tw/en/",
+      "highlights": []
+    },
+    {
+      "name": "Juming Museum",
+      "city": "New Taipei",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 25.24629,
+      "longitude": 121.61128,
+      "domain": "juming.org.tw",
+      "alternateName": "朱銘美術館",
+      "websiteURL": "https://www.juming.org.tw/",
+      "radius": 350,
+      "highlights": []
+    },
+    {
+      "name": "Yingge Ceramics Museum",
+      "city": "New Taipei",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 24.949251,
+      "longitude": 121.35203,
+      "domain": "ceramics.ntpc.gov.tw",
+      "alternateName": "新北市立鶯歌陶瓷博物館",
+      "websiteURL": "https://www.ceramics.ntpc.gov.tw/",
+      "highlights": []
+    },
+    {
+      "name": "National Taiwan Museum of Fine Arts",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 24.141361,
+      "longitude": 120.663583,
+      "domain": "ntmofa.gov.tw",
+      "alternateName": "國立臺灣美術館",
+      "websiteURL": "https://www.ntmofa.gov.tw/en/",
+      "radius": 200,
+      "highlights": [
+        {
+          "title": "Ton Fan Group"
+        },
+        {
+          "title": "Lotus Pond",
+          "creator": "Lin Yu-shan"
+        }
+      ]
+    },
+    {
+      "name": "Asia Modern Art Museum",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 24.0471,
+      "longitude": 120.68822,
+      "domain": "asiamodern.asia.edu.tw",
+      "alternateName": "亞洲現代美術館",
+      "websiteURL": "https://asiamodern.asia.edu.tw/",
+      "highlights": []
+    },
+    {
+      "name": "Kaohsiung Museum of Fine Arts",
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 22.656444,
+      "longitude": 120.286278,
+      "domain": "kmfa.gov.tw",
+      "alternateName": "高雄市立美術館",
+      "websiteURL": "https://www.kmfa.gov.tw/",
+      "radius": 200,
+      "highlights": []
+    },
+    {
+      "name": "National Palace Museum Southern Branch",
+      "city": "Chiayi",
+      "country": "Taiwan",
+      "region": "Taiwan",
+      "type": "art",
+      "latitude": 23.472778,
+      "longitude": 120.292778,
+      "domain": "south.npm.gov.tw",
+      "alternateName": "國立故宮博物院南部院區",
+      "websiteURL": "https://south.npm.gov.tw/",
+      "radius": 300,
+      "highlights": []
+    },
+    {
+      "name": "Smithsonian American Art Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.8978,
+      "longitude": -77.0233,
+      "domain": "americanart.si.edu",
+      "websiteURL": "https://americanart.si.edu/",
+      "highlights": [
+        {
+          "title": "The Subsiding of the Waters of the Deluge",
+          "creator": "Thomas Cole",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Aurora Borealis",
+          "creator": "Frederic Edwin Church",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "George Washington",
+          "creator": "Horatio Greenough",
+          "medium": "Marble"
+        },
+        {
+          "title": "Constantine ruble"
+        },
+        {
+          "title": "Halo 2600",
+          "creator": "Ed Fries"
+        },
+        {
+          "title": "The Headless Horseman Pursuing Ichabod Crane",
+          "creator": "John Quidor",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Sha-có-pay, The Six, Chief of the Plains Ojibwa",
+          "creator": "George Catlin",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Young Omahaw, War Eagle, Little Missouri, and Pawnees",
+          "creator": "Charles Bird King",
+          "medium": "Oil on canvas"
+        }
+      ]
+    },
+    {
+      "name": "Renwick Gallery",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.899111,
+      "longitude": -77.039056,
+      "domain": "americanart.si.edu",
+      "websiteURL": "https://americanart.si.edu/visit/renwick",
+      "highlights": []
+    },
+    {
+      "name": "National Museum of American History",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.89111,
+      "longitude": -77.03,
+      "domain": "americanhistory.si.edu",
+      "websiteURL": "https://americanhistory.si.edu/",
+      "highlights": [
+        {
+          "title": "We Can Do It!",
+          "creator": "J. Howard Miller"
+        },
+        {
+          "title": "Cher Ami"
+        },
+        {
+          "title": "Brownie",
+          "medium": "Artificial leather"
+        },
+        {
+          "title": "USS Philadelphia"
+        },
+        {
+          "title": "Star Spangled Banner Flag",
+          "creator": "Mary Young Pickersgill"
+        }
+      ]
+    },
+    {
+      "name": "National Museum of African American History and Culture",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.89111,
+      "longitude": -77.03278,
+      "domain": "nmaahc.si.edu",
+      "websiteURL": "https://nmaahc.si.edu/",
+      "highlights": [
+        {
+          "title": "Hair Like Mine",
+          "creator": "Pete Souza"
+        }
+      ]
+    },
+    {
+      "name": "National Museum of the American Indian",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.8883,
+      "longitude": -77.0166,
+      "domain": "americanindian.si.edu",
+      "websiteURL": "https://americanindian.si.edu/",
+      "highlights": []
+    },
+    {
+      "name": "National Postal Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.89806,
+      "longitude": -77.00833,
+      "domain": "postalmuseum.si.edu",
+      "websiteURL": "https://postalmuseum.si.edu/",
+      "highlights": []
+    },
+    {
+      "name": "Anacostia Community Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.856854,
+      "longitude": -76.976888,
+      "domain": "anacostia.si.edu",
+      "websiteURL": "https://anacostia.si.edu/",
+      "highlights": []
+    },
+    {
+      "name": "United States Holocaust Memorial Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.88667,
+      "longitude": -77.0325,
+      "domain": "ushmm.org",
+      "websiteURL": "https://www.ushmm.org/",
+      "highlights": [
+        {
+          "title": "Auschwitz Protocols"
+        },
+        {
+          "title": "Höcker Album"
+        },
+        {
+          "title": "Korherr Report"
+        },
+        {
+          "title": "Sobibor perpetrator album"
+        }
+      ]
+    },
+    {
+      "name": "National Building Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 38.8975,
+      "longitude": -77.0181,
+      "domain": "nbm.org",
+      "websiteURL": "https://nbm.org/",
+      "highlights": []
+    },
+    {
+      "name": "National Archives Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.89278,
+      "longitude": -77.02306,
+      "domain": "archives.gov",
+      "websiteURL": "https://museum.archives.gov/",
+      "highlights": [
+        {
+          "title": "Raising the Flag on Iwo Jima",
+          "creator": "Joe Rosenthal"
+        },
+        {
+          "title": "A Jewish boy surrenders in Warsaw",
+          "medium": "Albumen print"
+        },
+        {
+          "title": "Into the Jaws of Death",
+          "creator": "Robert F. Sargent"
+        },
+        {
+          "title": "Franck Report"
+        },
+        {
+          "title": "Executive Order 9981"
+        },
+        {
+          "title": "Pink Chanel suit of Jacqueline Bouvier Kennedy",
+          "creator": "Chez Ninon",
+          "medium": "Bouclé"
+        },
+        {
+          "title": "Nixon White House tapes",
+          "creator": "Richard Nixon"
+        },
+        {
+          "title": "Presidential Proclamation 4311 of September 8, 1974, by President Gerald R. Ford granting a pardon to Richard M. Nixon. (NAID 299996)"
+        }
+      ]
+    },
+    {
+      "name": "Museum of the Bible",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.884722,
+      "longitude": -77.016944,
+      "domain": "museumofthebible.org",
+      "websiteURL": "https://www.museumofthebible.org/",
+      "highlights": [
+        {
+          "title": "Papyrus 130",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Papyrus 135",
+          "medium": "Papyrus"
+        },
+        {
+          "title": "Papyrus 131"
+        }
+      ]
+    },
+    {
+      "name": "International Spy Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.883976,
+      "longitude": -77.025436,
+      "domain": "spymuseum.org",
+      "websiteURL": "https://www.spymuseum.org/",
+      "highlights": []
+    },
+    {
+      "name": "National Geographic Museum of Exploration",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "science",
+      "latitude": 38.9051,
+      "longitude": -77.0379,
+      "domain": "nationalgeographic.org",
+      "websiteURL": "https://www.nationalgeographic.org/",
+      "highlights": []
+    },
+    {
+      "name": "Planet Word",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 38.902164,
+      "longitude": -77.02937,
+      "domain": "planetwordmuseum.org",
+      "websiteURL": "https://planetwordmuseum.org/",
+      "highlights": []
+    },
+    {
+      "name": "Library of Congress",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 38.8887,
+      "longitude": -77.0046,
+      "domain": "loc.gov",
+      "websiteURL": "https://www.loc.gov/visit/",
+      "highlights": [
+        {
+          "title": "Gutenberg Bible"
+        },
+        {
+          "title": "الاهرام"
+        },
+        {
+          "title": "Virginia Declaration of Rights"
+        },
+        {
+          "title": "The Ancient of Days",
+          "creator": "William Blake",
+          "medium": "Ink on paper"
+        },
+        {
+          "title": "Lincoln Bible"
+        },
+        {
+          "title": "Gugusse and the Automaton"
+        },
+        {
+          "title": "Adam and Eve",
+          "creator": "Albrecht Dürer"
+        },
+        {
+          "title": "Valley of the Shadow of Death",
+          "creator": "Roger Fenton",
+          "medium": "Salted paper print"
+        }
+      ]
+    },
+    {
+      "name": "Folger Shakespeare Library",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 38.88944,
+      "longitude": -77.00306,
+      "domain": "folger.edu",
+      "websiteURL": "https://www.folger.edu/",
+      "highlights": [
+        {
+          "title": "Ashbourne portrait",
+          "medium": "Oil on canvas"
+        }
+      ]
+    },
+    {
+      "name": "Ford's Theatre",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.89667,
+      "longitude": -77.02583,
+      "domain": "fords.org",
+      "websiteURL": "https://www.fords.org/",
+      "highlights": []
+    },
+    {
+      "name": "The Kreeger Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.921814,
+      "longitude": -77.089117,
+      "domain": "kreegermuseum.org",
+      "websiteURL": "https://www.kreegermuseum.org/",
+      "highlights": []
+    },
+    {
+      "name": "Hillwood Estate, Museum & Gardens",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.9437,
+      "longitude": -77.0526,
+      "domain": "hillwoodmuseum.org",
+      "websiteURL": "https://hillwoodmuseum.org/",
+      "radius": 200,
+      "highlights": [
+        {
+          "title": "Catherine the Great",
+          "creator": "Henrik Wigström"
+        },
+        {
+          "title": "A Boyar Wedding Feast",
+          "creator": "Konstantin Makovsky",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "The night",
+          "creator": "William-Adolphe Bouguereau",
+          "medium": "Oil on canvas"
+        }
+      ]
+    },
+    {
+      "name": "Dumbarton Oaks",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.9142,
+      "longitude": -77.0633,
+      "domain": "doaks.org",
+      "websiteURL": "https://www.doaks.org/",
+      "radius": 200,
+      "highlights": [
+        {
+          "title": "Hestia Tapestry",
+          "medium": "Wool"
+        },
+        {
+          "title": "The Visitation",
+          "creator": "El Greco",
+          "medium": "Oil on canvas"
+        },
+        {
+          "title": "Dumbarton Oaks birthing figure",
+          "medium": "Scapolite"
+        },
+        {
+          "title": "The Sion Treasure"
+        }
+      ]
+    },
+    {
+      "name": "The George Washington University Museum and The Textile Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.898842,
+      "longitude": -77.046358,
+      "domain": "museum.gwu.edu",
+      "websiteURL": "https://museum.gwu.edu/",
+      "highlights": []
+    },
+    {
+      "name": "Rubell Museum DC",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 38.8793,
+      "longitude": -77.010883,
+      "domain": "rubellmuseum.org",
+      "websiteURL": "https://rubellmuseum.org/dc",
+      "highlights": []
+    },
+    {
+      "name": "DAR Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.8937,
+      "longitude": -77.0405,
+      "domain": "dar.org",
+      "websiteURL": "https://www.dar.org/collections/museum",
+      "highlights": []
+    },
+    {
+      "name": "Frederick Douglass National Historic Site",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.86333,
+      "longitude": -76.98528,
+      "domain": "nps.gov",
+      "websiteURL": "https://www.nps.gov/frdo/",
+      "highlights": []
+    },
+    {
+      "name": "President Lincoln's Cottage",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.941726,
+      "longitude": -77.011852,
+      "domain": "lincolncottage.org",
+      "websiteURL": "https://www.lincolncottage.org/",
+      "highlights": []
+    },
+    {
+      "name": "Tudor Place",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.910808,
+      "longitude": -77.063339,
+      "domain": "tudorplace.org",
+      "websiteURL": "https://www.tudorplace.org/",
+      "highlights": []
+    },
+    {
+      "name": "Woodrow Wilson House",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.91389,
+      "longitude": -77.05167,
+      "domain": "woodrowwilsonhouse.org",
+      "websiteURL": "https://www.woodrowwilsonhouse.org/",
+      "highlights": []
+    },
+    {
+      "name": "Heurich House Museum",
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 38.90806,
+      "longitude": -77.04444,
+      "domain": "heurichhouse.org",
+      "websiteURL": "https://heurichhouse.org/",
       "highlights": []
     }
   ]
