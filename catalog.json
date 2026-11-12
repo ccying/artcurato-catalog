@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updated": "2026-11-12",
   "radiusOverrides": {
     "Musée du Louvre": 500,
@@ -3585,7 +3585,20 @@
       "longitude": -118.251,
       "domain": "thebroad.org",
       "websiteURL": "https://www.thebroad.org/",
-      "highlights": []
+      "highlights": [
+        {
+          "title": "Infinity Mirrored Room – The Souls of Millions of Light Years Away",
+          "creator": "Yayoi Kusama",
+          "medium": "Mirrored room with LED lights",
+          "story": "2013; step into a dark mirrored room of glowing lights that seems to go on forever. Book a timed slot on arrival."
+        },
+        {
+          "title": "The Veil and the Vault",
+          "creator": "Diller Scofidio + Renfro",
+          "medium": "Architecture",
+          "story": "A white honeycomb veil lifts at the corners, and the escalator tunnels up through the collection vault to the galleries."
+        }
+      ]
     },
     {
       "name": "Hilbert Museum of California Art",
@@ -3661,6 +3674,32 @@
       "domain": "lbma.org",
       "websiteURL": "https://lbma.org/visit/lbma-downtown",
       "highlights": []
+    },
+    {
+      "name": "Museum of Contemporary Art, Los Angeles",
+      "alternateName": "MOCA Grand Avenue",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.0533,
+      "longitude": -118.2508,
+      "domain": "moca.org",
+      "websiteURL": "https://www.moca.org/",
+      "highlights": [
+        {
+          "title": "The Isozaki Building",
+          "creator": "Arata Isozaki",
+          "medium": "Architecture",
+          "story": "Red sandstone pyramids and a barrel vault, finished in 1986, right across Grand Avenue from The Broad."
+        },
+        {
+          "title": "The Panza Collection",
+          "creator": "Rothko, Rauschenberg, Kline and more",
+          "medium": "Painting",
+          "story": "About 80 postwar works bought in 1984 became the core of MOCA's collection. Shown in rotation."
+        }
+      ]
     }
   ],
   "retiredHighlights": {
