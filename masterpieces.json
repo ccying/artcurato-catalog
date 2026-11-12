@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-07-22",
+  "version": 2,
+  "updated": "2026-11-12",
   "masterpieces": [
     {
       "title": "Wheat Field with Cypresses",
@@ -491,6 +491,34 @@
       "medium": "Tempera and crayon",
       "story": "The famous 1893 version, stolen in 1994 during the Lillehammer Olympics and recovered.",
       "museum": "National Museum of Norway"
+    },
+    {
+      "title": "No. 61 (Rust and Blue)",
+      "creator": "Mark Rothko",
+      "medium": "Oil on canvas",
+      "story": "1953; soft-edged fields of rust and blue that seem to glow from within. Part of the Panza Collection that founded MOCA.",
+      "museum": "Museum of Contemporary Art, Los Angeles"
+    },
+    {
+      "title": "Coca-Cola Plan",
+      "creator": "Robert Rauschenberg",
+      "medium": "Combine: Coca-Cola bottles, wood, cast metal wings",
+      "story": "1958; three Coke bottles given wings, Rauschenberg's playful salute to American pop culture before Pop Art had a name.",
+      "museum": "Museum of Contemporary Art, Los Angeles"
+    },
+    {
+      "title": "Infinity Mirrored Room – The Souls of Millions of Light Years Away",
+      "creator": "Yayoi Kusama",
+      "medium": "Mirrored room with LED lights",
+      "story": "2013; a dark room of mirrors and glowing lights that seems to stretch forever. Needs a timed reservation.",
+      "museum": "The Broad"
+    },
+    {
+      "title": "Rabbit",
+      "creator": "Jeff Koons",
+      "medium": "Stainless steel",
+      "story": "1986; an inflatable toy recast in mirror-bright steel, one of the most famous sculptures of its era.",
+      "museum": "The Broad"
     }
   ]
 }
