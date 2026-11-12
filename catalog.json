@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "updated": "2026-11-11",
+  "version": 11,
+  "updated": "2026-11-12",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -3609,6 +3609,57 @@
       "longitude": -117.8682,
       "domain": "bowers.org",
       "websiteURL": "https://www.bowers.org/",
+      "highlights": []
+    },
+    {
+      "name": "Getty Center",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.0775,
+      "longitude": -118.475,
+      "domain": "getty.edu",
+      "websiteURL": "https://www.getty.edu/visit/center/",
+      "highlights": []
+    },
+    {
+      "name": "Museum of Latin American Art",
+      "alternateName": "MOLAA",
+      "city": "Long Beach",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 33.77472,
+      "longitude": -118.17972,
+      "domain": "molaa.org",
+      "websiteURL": "https://molaa.org/",
+      "highlights": []
+    },
+    {
+      "name": "Long Beach Museum of Art",
+      "alternateName": "LBMA Ocean",
+      "city": "Long Beach",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 33.7635,
+      "longitude": -118.1648,
+      "domain": "lbma.org",
+      "websiteURL": "https://lbma.org/",
+      "highlights": []
+    },
+    {
+      "name": "Long Beach Museum of Art Downtown",
+      "alternateName": "LBMA Downtown",
+      "city": "Long Beach",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 33.7703736,
+      "longitude": -118.1878656,
+      "domain": "lbma.org",
+      "websiteURL": "https://lbma.org/visit/lbma-downtown",
       "highlights": []
     }
   ],
