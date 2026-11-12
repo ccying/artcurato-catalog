@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updated": "2026-10-03",
+  "version": 10,
+  "updated": "2026-11-11",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -3573,6 +3573,42 @@
       "longitude": -77.04444,
       "domain": "heurichhouse.org",
       "websiteURL": "https://heurichhouse.org/",
+      "highlights": []
+    },
+    {
+      "name": "The Broad",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.0544,
+      "longitude": -118.251,
+      "domain": "thebroad.org",
+      "websiteURL": "https://www.thebroad.org/",
+      "highlights": []
+    },
+    {
+      "name": "Hilbert Museum of California Art",
+      "city": "Orange",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 33.789,
+      "longitude": -117.8566,
+      "domain": "hilbertmuseum.org",
+      "websiteURL": "https://hilbertmuseum.org/",
+      "highlights": []
+    },
+    {
+      "name": "Bowers Museum",
+      "city": "Santa Ana",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 33.76331,
+      "longitude": -117.8682,
+      "domain": "bowers.org",
+      "websiteURL": "https://www.bowers.org/",
       "highlights": []
     }
   ],
