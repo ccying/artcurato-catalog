@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updated": "2026-11-13",
   "radiusOverrides": {
     "Musée du Louvre": 500,
@@ -3928,6 +3928,65 @@
           "creator": "Various Native American artists",
           "medium": "Baskets, ceramics, textiles and jewelry",
           "story": "About 238,000 pieces, including 14,000 baskets. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Wende Museum",
+      "city": "Culver City",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.011647,
+      "longitude": -118.403932,
+      "domain": "wendemuseum.org",
+      "websiteURL": "https://www.wendemuseum.org/",
+      "highlights": [
+        {
+          "title": "East German guardhouse",
+          "creator": "East German state",
+          "medium": "Architecture",
+          "story": "A guardhouse that once controlled access to the East German news agency ADN, now in the museum garden hosting contemporary art."
+        }
+      ]
+    },
+    {
+      "name": "Petersen Automotive Museum",
+      "alternateName": "Petersen",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 34.062472,
+      "longitude": -118.361034,
+      "domain": "petersen.org",
+      "websiteURL": "https://www.petersen.org/",
+      "highlights": [
+        {
+          "title": "Stainless-steel ribbon facade",
+          "creator": "Kohn Pedersen Fox",
+          "medium": "Architecture",
+          "story": "2015; flowing steel ribbons wrap the red building on Wilshire Boulevard."
+        }
+      ]
+    },
+    {
+      "name": "Benton Museum of Art at Pomona College",
+      "alternateName": "Benton Museum",
+      "city": "Claremont",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.096167,
+      "longitude": -117.715306,
+      "domain": "pomona.edu",
+      "websiteURL": "https://www.pomona.edu/museum",
+      "highlights": [
+        {
+          "title": "Imbue",
+          "creator": "Alison Saar",
+          "medium": "Sculpture",
+          "story": "In the museum courtyard; the Yoruba goddess Yemọja carrying pails on her head."
         }
       ]
     }
