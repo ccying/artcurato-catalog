@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updated": "2026-11-12",
+  "version": 13,
+  "updated": "2026-11-13",
   "radiusOverrides": {
     "Musée du Louvre": 500,
     "Vatican Museums": 500,
@@ -24,7 +24,9 @@
     "Musée d'Orsay": 180,
     "Tokyo National Museum": 220,
     "Grand Egyptian Museum": 300,
-    "Louvre Abu Dhabi": 250
+    "Louvre Abu Dhabi": 250,
+    "Los Angeles County Museum of Art": 180,
+    "The Huntington Library, Art Museum, and Botanical Gardens": 350
   },
   "museums": [
     {
@@ -3698,6 +3700,234 @@
           "creator": "Rothko, Rauschenberg, Kline and more",
           "medium": "Painting",
           "story": "About 80 postwar works bought in 1984 became the core of MOCA's collection. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles County Museum of Art",
+      "alternateName": "LACMA",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.0633,
+      "longitude": -118.3592,
+      "domain": "lacma.org",
+      "websiteURL": "https://www.lacma.org/",
+      "highlights": [
+        {
+          "title": "Urban Light",
+          "creator": "Chris Burden",
+          "medium": "Installation of 202 restored cast-iron street lamps",
+          "story": "2008; rows of antique Los Angeles street lamps on Wilshire Boulevard. Free to visit and best after dark."
+        },
+        {
+          "title": "Levitated Mass",
+          "creator": "Michael Heizer",
+          "medium": "Granite boulder over a concrete trench",
+          "story": "2012; a 340-ton boulder sits above a 456-foot walkway, so you can walk right under it."
+        }
+      ]
+    },
+    {
+      "name": "The Huntington Library, Art Museum, and Botanical Gardens",
+      "alternateName": "The Huntington",
+      "city": "San Marino",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.12722,
+      "longitude": -118.11,
+      "domain": "huntington.org",
+      "websiteURL": "https://www.huntington.org/",
+      "highlights": [
+        {
+          "title": "The Blue Boy",
+          "creator": "Thomas Gainsborough",
+          "medium": "Oil on canvas",
+          "story": "c. 1770; Gainsborough's famous portrait of a boy in blue satin. Usually hangs facing Lawrence's \"Pinkie\"."
+        },
+        {
+          "title": "Pinkie",
+          "creator": "Thomas Lawrence",
+          "medium": "Oil on canvas",
+          "story": "1794; a girl in a windblown white dress, the longtime companion piece to \"The Blue Boy\"."
+        }
+      ]
+    },
+    {
+      "name": "Hammer Museum",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.05944,
+      "longitude": -118.44361,
+      "domain": "hammer.ucla.edu",
+      "websiteURL": "https://hammer.ucla.edu/",
+      "highlights": [
+        {
+          "title": "Juno",
+          "creator": "Rembrandt van Rijn",
+          "medium": "Oil on canvas",
+          "story": "c. 1665–1668; a late Rembrandt portrait of the Roman queen of the gods, from the Armand Hammer Collection. Shown in rotation."
+        },
+        {
+          "title": "Hospital at Saint-Rémy",
+          "creator": "Vincent van Gogh",
+          "medium": "Oil on canvas",
+          "story": "1889; painted while Van Gogh was a patient at the Saint-Rémy asylum. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Lucas Museum of Narrative Art",
+      "alternateName": "Lucas Museum",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.01528,
+      "longitude": -118.29083,
+      "domain": "lucasmuseum.org",
+      "websiteURL": "https://www.lucasmuseum.org/",
+      "highlights": [
+        {
+          "title": "The Lucas Museum building",
+          "creator": "Ma Yansong, MAD Architects",
+          "medium": "Architecture",
+          "story": "Opened in 2026; a curving, spaceship-like building that floats above a landscaped park in Exposition Park."
+        },
+        {
+          "title": "George Washington Carver Crossing the Delaware: Page from an American History Textbook",
+          "creator": "Robert Colescott",
+          "medium": "Acrylic on canvas",
+          "story": "1975; Colescott's satirical remake of a famous patriotic painting. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Fowler Museum at UCLA",
+      "alternateName": "Fowler Museum",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.0728,
+      "longitude": -118.4431,
+      "domain": "fowler.ucla.edu",
+      "websiteURL": "https://fowler.ucla.edu/",
+      "highlights": [
+        {
+          "title": "Fowler Family Silver Collection",
+          "creator": "Various silversmiths",
+          "medium": "Silver",
+          "story": "About 400 European and American pieces from the 1500s to 1800s, including work by Paul Revere. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "California African American Museum",
+      "alternateName": "CAAM",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.015806,
+      "longitude": -118.283465,
+      "domain": "caamuseum.org",
+      "websiteURL": "https://caamuseum.org/",
+      "highlights": [
+        {
+          "title": "Bust of Mary McLeod Bethune",
+          "creator": "Richmond Barthé",
+          "medium": "Bronze",
+          "story": "The first object to enter CAAM's collection. Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Craft Contemporary",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.06222,
+      "longitude": -118.35556,
+      "domain": "craftcontemporary.org",
+      "websiteURL": "https://www.craftcontemporary.org/",
+      "highlights": [
+        {
+          "title": "Museum building",
+          "creator": "Gilbert Stanley Underwood",
+          "medium": "Architecture",
+          "story": "1930; the original Wilshire Boulevard facade is almost fully intact. Renovated by Hodgetts + Fung in 1995."
+        }
+      ]
+    },
+    {
+      "name": "USC Pacific Asia Museum",
+      "alternateName": "USC PAM",
+      "city": "Pasadena",
+      "country": "United States",
+      "region": "United States",
+      "type": "art",
+      "latitude": 34.1467,
+      "longitude": -118.1411,
+      "domain": "pacificasiamuseum.usc.edu",
+      "websiteURL": "https://pacificasiamuseum.usc.edu/",
+      "highlights": [
+        {
+          "title": "Museum building and courtyard garden",
+          "creator": "Marston, Van Pelt & Maybury",
+          "medium": "Architecture",
+          "story": "1920s; built in the style of a Chinese imperial palace around a garden courtyard with a small pool. A California Historical Landmark."
+        }
+      ]
+    },
+    {
+      "name": "Academy Museum of Motion Pictures",
+      "alternateName": "Academy Museum",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "other",
+      "latitude": 34.06333,
+      "longitude": -118.36083,
+      "domain": "academymuseum.org",
+      "websiteURL": "https://www.academymuseum.org/",
+      "highlights": [
+        {
+          "title": "The Sphere",
+          "creator": "Renzo Piano",
+          "medium": "Architecture",
+          "story": "A concrete-and-glass sphere holding the David Geffen Theater, topped by a glass-domed terrace with Hollywood Hills views."
+        },
+        {
+          "title": "Ruby slippers",
+          "creator": "Adrian",
+          "medium": "Costume",
+          "story": "1939; a pair Judy Garland wore in \"The Wizard of Oz\". Shown in rotation."
+        }
+      ]
+    },
+    {
+      "name": "Autry Museum of the American West",
+      "alternateName": "The Autry",
+      "city": "Los Angeles",
+      "country": "United States",
+      "region": "United States",
+      "type": "history",
+      "latitude": 34.1487,
+      "longitude": -118.2813,
+      "domain": "theautry.org",
+      "websiteURL": "https://theautry.org/",
+      "highlights": [
+        {
+          "title": "Southwest Museum of the American Indian Collection",
+          "creator": "Various Native American artists",
+          "medium": "Baskets, ceramics, textiles and jewelry",
+          "story": "About 238,000 pieces, including 14,000 baskets. Shown in rotation."
         }
       ]
     }
