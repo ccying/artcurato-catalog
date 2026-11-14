@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updated": "2026-11-13",
   "radiusOverrides": {
     "Musée du Louvre": 500,
@@ -3585,6 +3585,7 @@
       "type": "art",
       "latitude": 34.0544,
       "longitude": -118.251,
+      "radius": 60,
       "domain": "thebroad.org",
       "websiteURL": "https://www.thebroad.org/",
       "highlights": [
@@ -3686,6 +3687,7 @@
       "type": "art",
       "latitude": 34.0533,
       "longitude": -118.2508,
+      "radius": 60,
       "domain": "moca.org",
       "websiteURL": "https://www.moca.org/",
       "highlights": [
